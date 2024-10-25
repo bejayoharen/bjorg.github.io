@@ -5,7 +5,7 @@ date:   2024-10-23 12:01:00 -0400
 categories: management
 ---
 
-Every January at GIPHY felt like starting a new company. The annual ritual to redo the company goals always resulted in something new, and often a complete overhaul. This was challenging, but also fun and exciting, and of course some years had clearer goals thn others. But, whether the new goals were designed to tackle a bigger and better goal, fulfil a promise to investors, or to explore a new opportunity, we always had to be on our toes for big changes.
+Every January at GIPHY felt like starting a new company. The annual ritual to redo the company goals always resulted in something new, and often a complete overhaul. This was challenging, but also fun and exciting, and of course some years had clearer goals than others. But, whether the new goals were designed to tackle something bigger and better, fulfill a promise to investors, or to explore a new opportunity, we always had to be on our toes for big changes.
 
 One of the tasks for me once the new goals were clarified, was to restructure the teams to meet these goals. Regardless of how and when teams need to be restructured at your company, there are always going to be times when you have to tweak the team structure to better align with company goals. I haven't seen much written about how to do this, so here's my approach.
 
