@@ -45,6 +45,7 @@ I wasn't sure if I had enough to say to write a blog, so I brainstormed some ide
 * Engineering Management
 	* A Roadmapping System that Works
 	* Regular Manager Meetings
+	* [The myth of microservice isolation](/management/2024/11/01/myth-of-micrservice-isolation.html)
 	* [Structuring Product and Engineering Teams](/management/2024/10/23/structuring-product-engineering-teams.html)
 	* We need a new way to point stories.
 	* Keeping Remote Teams on track
