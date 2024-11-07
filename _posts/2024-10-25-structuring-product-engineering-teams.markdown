@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Structuring Product and Engineering Teams"
+title:  "Structuring product and engineering teams"
 date:   2024-10-23 12:01:00 -0400
 categories: management
 ---

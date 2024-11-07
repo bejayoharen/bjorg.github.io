@@ -6,6 +6,16 @@ permalink: /topics/
 
 I wasn't sure if I had enough to say to write a blog, so I brainstormed some ideas, and it seems I do. Here are some things I plan to cover at some point or other. Topics here are organized conceptually. Please reach out and let me know if some of these seem especially interesting, and I'll prioritize them:
 
+* Engineering Management
+	* A Roadmapping System that Works
+	* Regular Manager Meetings
+	* [The myth of microservice isolation](/management/2024/11/01/myth-of-micrservice-isolation.html)
+	* [Structuring product and engineering teams](/management/2024/10/23/structuring-product-engineering-teams.html)
+	* We need a new way to point stories.
+	* Keeping Remote Teams on track
+	* [Implementing organizational change part 1: culture and policies](/management/2024/11/06/Implementing-organizational-change-part-1-culture-and-policies.html)
+	* [Implementing organizational change part 2: getting buy-in](/management/2024/11/06/Implementing-organizational-change-part-2-getting-buy-in.html)
+	* Accountability, team charters and buy-in
 * Audio
 	* Audio Basics
 		* [Sampling and digital audio basics](/audio/2024/10/23/digital-audio-basics-sampling-analog-and-digital-conversion.html)
@@ -42,18 +52,6 @@ I wasn't sure if I had enough to say to write a blog, so I brainstormed some ide
 		* De-esser
 		* Rta
 		* Phase meter
-* Engineering Management
-	* A Roadmapping System that Works
-	* Regular Manager Meetings
-	* [The myth of microservice isolation](/management/2024/11/01/myth-of-micrservice-isolation.html)
-	* [Structuring Product and Engineering Teams](/management/2024/10/23/structuring-product-engineering-teams.html)
-	* We need a new way to point stories.
-	* Keeping Remote Teams on track
-	* The Agony of Dependencies
-	* Some Microservices should be libraries
-	* What is Strategy in Management and Engineering?
-	* Influencing culture vs implementing policies (why not both?)
-	* Accountability, team charters and buy-in
 * Contracting
 	* How I got work as an audio software development contractor
 	* How to Estimate Projects
