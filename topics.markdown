@@ -9,6 +9,7 @@ I wasn't sure if I had enough to say to write a blog, so I brainstormed some ide
 * Engineering Management
 	* A Roadmapping System that Works
 	* Regular Manager Meetings
+	* [Effecive Strategy](/management/2024/11/15/effective-strategy.html)
 	* [The myth of microservice isolation](/management/2024/11/01/myth-of-micrservice-isolation.html)
 	* [Structuring product and engineering teams](/management/2024/10/23/structuring-product-engineering-teams.html)
 	* We need a new way to point stories.
