@@ -21,7 +21,7 @@ I wasn't sure if I had enough to say to write a blog, so I brainstormed some ide
 	* Audio Basics
 		* [Sampling and digital audio basics](/audio/2024/10/23/digital-audio-basics-sampling-analog-and-digital-conversion.html)
 		* [Audio timing source](/audio/2024/10/23/audio-clocking-and-audio-video-synchronization.html)
-		* Audio file formats
+		* [Audio file formats and audio quality](/audio/2024/11/16/audio-file-formats.html)
 		* Conversion from float to int and dithering.
 		* Decibels
 		* Metering audio and audio overviews
