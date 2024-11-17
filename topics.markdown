@@ -42,7 +42,7 @@ I wasn't sure if I had enough to say to write a blog, so I brainstormed some ide
 		* Why are sine waves fundamental to audio
 		* Frequency vs time domain basics
 		* Frequency vs time domain — why we usually go with time domain. Why inverse FFT FIR filters don’t work.
-		* Pitch tracking with the FFT
+		* [Pitch tracking with the FFT](/audio/2024/11/17/frequency-tracking-fft.html)
 	* Practical considerations:
 		* Processing in chunks/chunk sizes
 		* Latency
