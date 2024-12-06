@@ -7,12 +7,13 @@ permalink: /topics/
 I wasn't sure if I had enough to say to write a blog, so I brainstormed some ideas, and it seems I do. Here are some things I plan to cover at some point or other. Topics here are organized conceptually. Please reach out and let me know if some of these seem especially interesting, and I'll prioritize them:
 
 * [Engineering Management](/categories/#management)
-	* A Roadmapping System that Works
 	* Regular Manager Meetings
 	* [Effecive Strategy](/management/effective-strategy/)
 	* [The myth of microservice isolation](/management/myth-of-micrservice-isolation/)
 	* [Structuring product and engineering teams](/management/structuring-product-engineering-teams/)
 	* We need a new way to point stories.
+	* [How to estimate engineering projects](/management/how-to-estimate-engineering-projects/)
+	* A Roadmapping System that Works
 	* Keeping Remote Teams on track
 	* [Implementing organizational change part 1: culture and policies](/management/Implementing-organizational-change-part-1-culture-and-policies/)
 	* [Implementing organizational change part 2: getting buy-in](/management/Implementing-organizational-change-part-2-getting-buy-in/)
