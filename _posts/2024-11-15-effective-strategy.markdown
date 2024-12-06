@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Effective Strategy"
 date:   2024-11-15 12:01:00 -0400
 categories: management

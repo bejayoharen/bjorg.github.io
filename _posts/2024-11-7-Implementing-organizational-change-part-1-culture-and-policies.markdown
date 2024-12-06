@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Implementing organizational change part 1: culture and policies"
 date:   2024-11-07 00:01:00 -0400
 categories: management

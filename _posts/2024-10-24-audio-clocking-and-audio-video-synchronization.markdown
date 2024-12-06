@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Audio Clocking and Audio/Video Synchronization"
 date:   2024-10-23 12:01:00 -0400
 categories: audio

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Audio File Formats and Audio Quality"
 date:   2024-11-16 12:01:00 -0400
 categories: audio

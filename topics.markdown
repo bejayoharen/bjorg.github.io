@@ -1,27 +1,27 @@
 ---
-layout: page
+layout: single
 title:  "Topics"
 permalink: /topics/
 ---
 
 I wasn't sure if I had enough to say to write a blog, so I brainstormed some ideas, and it seems I do. Here are some things I plan to cover at some point or other. Topics here are organized conceptually. Please reach out and let me know if some of these seem especially interesting, and I'll prioritize them:
 
-* Engineering Management
+* [Engineering Management](/categories/#management)
 	* A Roadmapping System that Works
 	* Regular Manager Meetings
-	* [Effecive Strategy](/management/2024/11/15/effective-strategy.html)
-	* [The myth of microservice isolation](/management/2024/11/01/myth-of-micrservice-isolation.html)
-	* [Structuring product and engineering teams](/management/2024/10/23/structuring-product-engineering-teams.html)
+	* [Effecive Strategy](/management/effective-strategy/)
+	* [The myth of microservice isolation](/management/myth-of-micrservice-isolation/)
+	* [Structuring product and engineering teams](/management/structuring-product-engineering-teams/)
 	* We need a new way to point stories.
 	* Keeping Remote Teams on track
-	* [Implementing organizational change part 1: culture and policies](/management/2024/11/06/Implementing-organizational-change-part-1-culture-and-policies.html)
-	* [Implementing organizational change part 2: getting buy-in](/management/2024/11/06/Implementing-organizational-change-part-2-getting-buy-in.html)
+	* [Implementing organizational change part 1: culture and policies](/management/Implementing-organizational-change-part-1-culture-and-policies/)
+	* [Implementing organizational change part 2: getting buy-in](/management/Implementing-organizational-change-part-2-getting-buy-in/)
 	* Accountability, team charters and buy-in
-* Audio
+* [Digital Audio](/categories/#audio)
 	* Audio Basics
-		* [Sampling and digital audio basics](/audio/2024/10/23/digital-audio-basics-sampling-analog-and-digital-conversion.html)
-		* [Audio timing source](/audio/2024/10/23/audio-clocking-and-audio-video-synchronization.html)
-		* [Audio file formats and audio quality](/audio/2024/11/16/audio-file-formats.html)
+		* [Sampling and digital audio basics](/audio/digital-audio-basics-sampling-analog-and-digital-conversion/)
+		* [Audio timing source](/audio/audio-clocking-and-audio-video-synchronization/)
+		* [Audio file formats and audio quality](/audio/audio-file-formats/)
 		* Conversion from float to int and dithering.
 		* Decibels
 		* Metering audio and audio overviews
@@ -42,7 +42,7 @@ I wasn't sure if I had enough to say to write a blog, so I brainstormed some ide
 		* Why are sine waves fundamental to audio
 		* Frequency vs time domain basics
 		* Frequency vs time domain — why we usually go with time domain. Why inverse FFT FIR filters don’t work.
-		* [Pitch tracking with the FFT](/audio/2024/11/17/frequency-tracking-fft.html)
+		* [Pitch tracking with the FFT](/audio/frequency-tracking-fft/)
 	* Practical considerations:
 		* Processing in chunks/chunk sizes
 		* Latency

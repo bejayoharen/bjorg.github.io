@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Frequency detection using the FFT (aka pitch tracking) With Source Code"
 date:   2024-11-17 01:01:00 -0400
 categories: audio

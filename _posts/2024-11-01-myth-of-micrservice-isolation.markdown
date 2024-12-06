@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "The myth of microservice isolation"
 date:   2024-11-01 12:01:00 -0400
 categories: management

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Implementing organizational change part 2: getting buy-in"
 date:   2024-11-07 00:02:00 -0400
 categories: management
