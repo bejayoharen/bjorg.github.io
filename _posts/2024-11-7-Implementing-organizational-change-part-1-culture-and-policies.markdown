@@ -3,6 +3,7 @@ layout: single
 title:  "Implementing organizational change part 1: culture and policies"
 date:   2024-11-07 00:01:00 -0400
 categories: management
+excerpt: When implementing organizational change, you can influence the culture or implement written policies. What works best when?
 ---
 When implementing organizational change, there are generally two approaches: one is to influence the culture around you to change behavior, and the other is to implement written policies that codify the behaviors you want to see. Let’s talk about why implementing policies, by itself, usually fails, and how to do a better job making changes.
 

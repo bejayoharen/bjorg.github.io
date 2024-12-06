@@ -3,6 +3,7 @@ layout: single
 title:  "Frequency detection using the FFT (aka pitch tracking) With Source Code"
 date:   2024-11-17 01:01:00 -0400
 categories: audio
+excerpt: Walk though a basic FFT pitch tracker.
 ---
 _Years ago I noticed that there were a lot of questions on stack overflow about how to track pitch with the FFT. To help out, I wrote [a complete, working example](https://github.com/bejayoharen/guitartuner) of an FFT-based pitch tracker along with this blog post. The code still works, so I'm copying this to my new blog_
 

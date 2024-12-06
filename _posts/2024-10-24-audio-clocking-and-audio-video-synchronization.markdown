@@ -3,6 +3,7 @@ layout: single
 title:  "Audio Clocking and Audio/Video Synchronization"
 date:   2024-10-23 12:01:00 -0400
 categories: audio
+excerpt: Understanding the sample clock in digital audio.
 ---
 
 We talked a bit in the [last post](/audio/2024/10/23/digital-audio-basics-sampleing-analog-and-digital-conversion.html) about how important the sample clock is when converting from analog to digital. It turns out that this sample clock is also critical for digital-to-analog conversion, and understanding clocking is helpful in understanding complex systems with audio, including audio-video synchronization.

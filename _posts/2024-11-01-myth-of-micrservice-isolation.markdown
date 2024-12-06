@@ -3,6 +3,7 @@ layout: single
 title:  "The myth of microservice isolation"
 date:   2024-11-01 12:01:00 -0400
 categories: management
+excerpt: Microservice architectures may not provide isolation in a way that makes sense to the business.
 ---
 
 In the last twenty years, microservice architecture (MA) has become the standard way of building web-scale software systems, to the point that architecture conversations usually start not with should we use MA, but rather which specific microservice pattern to use.

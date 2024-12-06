@@ -3,6 +3,7 @@ layout: single
 title:  "Digital Audio Basics: Sampling and Analog to Digital Conversion"
 date:   2024-10-23 12:01:00 -0400
 categories: audio
+excerpt: Sampling and the basics of analog to digital conversion.
 ---
 
 A lot has been written about Sampling and the basics of digital audio, so I’m just going to be brief and focus on what you need to know for the rest of the blog, and also address some misconceptions

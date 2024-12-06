@@ -3,6 +3,7 @@ layout: single
 title:  "Implementing organizational change part 2: getting buy-in"
 date:   2024-11-07 00:02:00 -0400
 categories: management
+excerpt: Two techniques for getting buy-in. 1. setting up a committee and 2. handling skepticism.
 ---
 In [my last post](/management/2024/11/06/Implementing-organizational-change-part-1-culture-and-policies.html) I discussed the role of policies and culture in implementing organizational change. In this post, I’ll discuss a bit about getting buy-in. There are lots of ways to get buy-in for a change, but I’ll discuss two techniques I’ve found especially useful: setting up a committee and handling skepticism.
 
