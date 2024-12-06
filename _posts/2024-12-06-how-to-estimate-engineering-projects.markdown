@@ -10,13 +10,17 @@ header:
 ---
 I learned to estimate projects as a contractor, where sticking to my hours and timeline could mean the difference between getting repeat business and never hearing from a client again. I got good at it very quickly.
 
-Even if you are working at a company that is fairly forgiving about inaccurate timelines, creating accurate estimates is a great way to build trust in your abilities, and is a skill that can help to make your roadmapping better, among other things.
+Even if you are working at a company that is fairly forgiving about inaccurate timelines, creating accurate estimates is a great way to build trust in your abilities, and is a skill that can help to make planning, such as roadmapping more accurate and more useful.
 
 ## Step 0: Gather as much information as you can
 
-The more information you have about the project (requirements, stakeholders, scale, etc), the easier it is to estimate. Early on in the planning stages you will likely have the least information, and you might have to make some assumptions. For example, I’ve been asked to estimate a project with little more than a title and a vague sentence or two from the CEO about what’s desired. In cases like that, it’s usually understood that your estimate is going to be guesswork, but it might still be useful to the organization, eg in deciding which projects are worth pursuing in a given year.
+The more information you have about the project (requirements, stakeholders, scale, etc), the easier it is to estimate. Early on in the planning stages you will likely have the least information, and you might have to make some assumptions. For example, I’ve been asked to estimate a project with little more than a title and a vague sentence or two from the CEO about what’s desired. In cases like that, it’s usually understood that your estimate is going to be more of a guestimate, but it might still be useful to the organization, eg in deciding which projects are worth pursuing in a given year.
+
+The minimum thing you need to understand is what the minimum requirements for the stakeholders or the business are. The better you understand that, the more you'll be able to determine what actually needs to be built.
 
 That said, you should always do your best to get whatever information you can. For information you can’t get, I advise you to couch your estimates in terms like, “assuming we just have to do A, I think this will take two weeks, but if we have to do X, Y, or Z it could take considerably longer and I’d need more information about those requirements.”
+
+Always be prepared to revise your estimate as you go and more information comes in.
 
 ## Step 1: Create a gut-check by thinking of a similar project.
 
