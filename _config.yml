@@ -389,8 +389,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false # true
-      share: false #FIXME: these don't seem to work
+      comments: false
+      share: true
       related: false #FIXME: this is off because it just shows the most recent, but it should at least filter by category.
       show_date: true
   - scope:
