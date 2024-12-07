@@ -7,7 +7,7 @@ excerpt: Engineers often need to estimate their work, but doing so can be a chal
 header:
     overlay_image: "/assets/images/estimating-dark.png"
     og_image: "/assets/images/estimating.png"
-    
+    teaser: "/assets/images/estimating.png"
 ---
 I learned to estimate projects as a contractor, where sticking to my hours and timeline could mean the difference between getting repeat business and never hearing from a client again. I got good at it very quickly.
 
