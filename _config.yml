@@ -378,7 +378,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: false # true
+      comments: false
       share: false
       related: false
       show_date: false
@@ -391,10 +391,19 @@ defaults:
       read_time: true
       comments: false
       share: true
-      related: false #FIXME: this is off because it just shows the most recent, but it should at least filter by category.
+      related: true #FIXME: this is off because it just shows the most recent, but it should at least filter by category.
       show_date: true
   - scope:
       path: ""
       type: foo
     values:
       layout: single
+
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: archive-taxonomy
+  permalinks:
+    category: /category/:name/
