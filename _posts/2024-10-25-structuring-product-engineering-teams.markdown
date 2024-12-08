@@ -4,6 +4,10 @@ title:  "Structuring product and engineering teams"
 date:   2024-10-23 12:01:00 -0400
 categories: management
 excerpt: How to design engineering teams for maximum success.
+header:
+    overlay_image: "/assets/images/team-dark.png"
+    og_image: "/assets/images/team.png"
+    teaser: "/assets/images/team.png"
 ---
 
 Every January at GIPHY felt like starting a new company. The annual ritual to redo the company goals always resulted in something new, and often a complete overhaul. This was challenging, but also fun and exciting, and of course some years had clearer goals than others. But, whether the new goals were designed to tackle something bigger and better, fulfill a promise to investors, or to explore a new opportunity, we always had to be on our toes for big changes.

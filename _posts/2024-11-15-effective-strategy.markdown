@@ -4,6 +4,10 @@ title:  "Effective Strategy"
 date:   2024-11-15 12:01:00 -0400
 categories: management
 excerpt: Strategy is an important and oft-misunderstood concept. Let's explore how a clear understanding can help you keep your team on track.
+header:
+    overlay_image: "/assets/images/strategy-dark.png"
+    og_image: "/assets/images/strategy.png"
+    teaser: "/assets/images/strategy.png"
 ---
 
 A coworker of mine once complained about the fuzzy meaning of the word “strategy” at our company. He would say, “it means something different to everyone. It’s like a Rorschach test.” He was not alone. Strategy expert Richard Rumelt argues that bad strategy is the norm. Bad strategy, he argues, involves “not just… the wrong goals or the wrong implementation” but rather “mistaken views about what strategy is and how it works”. Let’s talk about what makes strategy an effective tool.

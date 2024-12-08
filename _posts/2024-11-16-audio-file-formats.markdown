@@ -4,6 +4,10 @@ title:  "Audio File Formats and Audio Quality"
 date:   2024-11-16 12:01:00 -0400
 categories: audio
 excerpt: There are a number of audio file formats. Let's review how they work and how they can impact quality.
+header:
+    overlay_image: "/assets/images/audio-file-teaser-dark.png"
+    og_image: "/assets/images/audio-file-teaser.png"
+    teaser: "/assets/images/audio-file-teaser.png"
 ---
 
 [Once analog audio is converted to digital by an ADC](/audio/2024/10/23/digital-audio-basics-sampling-analog-and-digital-conversion.html), we often want to store it to play back later. There’s two things we need to know about our ADC in order to make use of the audio: the sample rate, and bit depth. When storing digital audio, we usually like to store this "metadata" along with the raw sample data itself. (We might also be interested in other information, like when it was recorded, how many channels were recorded and so on. All that info is considered part of the metadata as well.)
