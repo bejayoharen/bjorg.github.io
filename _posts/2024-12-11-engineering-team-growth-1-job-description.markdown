@@ -3,18 +3,18 @@ layout: single
 title:  "Engineering team growth part 1: The perfect job description"
 date:   2024-12-11 01:01:00 -0400
 categories: management
-excerpt: Writing a great job description is more important than you might think when it comes to hiring great talent. Learn why that is, and how to create a great JD.
+excerpt: Writing a great job description is more important than you might think when it comes to hiring great talent. Learn why that is, and how to create one.
 header:
     overlay_image: "/assets/images/team-growth-1-dark.png"
     og_image: "/assets/images/team-growth-1.png"
     teaser: "/assets/images/team-growth-1.png"
 ---
-Hiring is, arguably, the most important thing you do at work. Who you hire shapes what the company will look like in the future more than many other decisions you can make. Let’s talk about one of the most important parts of the process: the job description or JD.
+Hiring is, arguably, the most important thing you do at work. Who you hire shapes what the company will look like in the future more than many other decisions you can make. Let’s talk about one of the most important parts of the process: the job description or "JD".
 
-# What makes the job description so important?
+# What makes the JD so important?
 The JD isn’t just a thing you post on job boards to attract people to the job. A properly written JD is a document that allows stakeholders to agree on what the job is, and communicate that to your interview panel and candidate. From there, it helps to guide the interview process towards the goal of hiring the person you want to hire.
 
-A job description that has ambiguous, impossible or too many or too few requirements, leads to bad hiring decisions because you lack it fails to provide clear and concise criteria for who you are hiring. You’ll end up using your highly biased gut instead of actually evaluating the candidates’ skills. Not only can that lead to a team who all looks the same, but it also mean you won't be hiring the best people.
+A job description that has ambiguous, impossible, or too many or too few requirements, leads to bad hiring decisions because it fails to provide clear and concise criteria for who you are hiring. You’ll end up using your highly biased gut instead of actually evaluating the candidates’ skills. Not only can that lead to a team who all looks the same, but it also mean you won't be hiring the best people.
 
 # Writing a job description
 The job description should be the single document that the entire hiring process flows from, so craft it with care. I’ve seen some companies where job descriptions are written by committees, and everyone on the committee has their pet requirements or things they think are important for the job. The result is a complex JD with laundry lists of requirements and dozens of “nice to haves”. Since you’ll never find someone who fully meets requirements written like this, you will never be able to make your decision based on objective criteria.
@@ -59,7 +59,7 @@ You can and should include soft-skills. One I see on a lot of job postings is �
 
 Although rarely listed in the job requirements, many companies implicitly or explicitly require candidates to fit into their culture. While I think it’s a great idea to make sure candidates share your values and will thrive at your company, “culture fit” requirements often become little more than stand-ins for how much the interviewer likes someone. Remember, you are not trying to select friends, you are trying to hire the people who will be best for the company.
 
-Obviously, I’m not suggesting you should hire people who are unpleasant to work with. You can and should filter out people with personality problems, and you should interview for people with the soft skills that make them easy to work with. For example, your job description might include things like “adept at collaborating with various stakeholders.” Be wary of vague requirements like the all-too-common “thrives in a fast paced environment”, which can be hard to test for, and focus on things you can test for like "able to juggle competing requirements from disparate stakeholders".
+Obviously, I’m not suggesting you should hire people who are unpleasant to work with. You can and should filter out people with personality problems, and you should interview for people with the soft skills that make them easy to work with. For example, your job description might include things like “adept at collaborating with various stakeholders.” Be wary of vague requirements like the all-too-common “thrives in a fast paced environment”, which can be hard to test for. Instead, focus on things you can test for like "able to juggle competing requirements from disparate stakeholders".
 
 # Footnotes
 
