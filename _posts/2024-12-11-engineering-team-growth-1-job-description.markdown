@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Engineering team growth part 1: The perfect job description"
-date:   2024-12-09 01:01:00 -0400
+date:   2024-12-11 01:01:00 -0400
 categories: management
 excerpt: Writing a great job description is more important than you might think when it comes to hiring great talent. Learn why that is, and how to create a great JD.
 header:
@@ -60,6 +60,8 @@ You can and should include soft-skills. One I see on a lot of job postings is �
 Although rarely listed in the job requirements, many companies implicitly or explicitly require candidates to fit into their culture. While I think it’s a great idea to make sure candidates share your values and will thrive at your company, “culture fit” requirements often become little more than stand-ins for how much the interviewer likes someone. Remember, you are not trying to select friends, you are trying to hire the people who will be best for the company.
 
 Obviously, I’m not suggesting you should hire people who are unpleasant to work with. You can and should filter out people with personality problems, and you should interview for people with the soft skills that make them easy to work with. For example, your job description might include things like “adept at collaborating with various stakeholders.” Be wary of vague requirements like the all-too-common “thrives in a fast paced environment”, which can be hard to test for, and focus on things you can test for like "able to juggle competing requirements from disparate stakeholders".
+
+# Footnotes
 
 [^one-document]: if the politics of your org make it difficult to streamline your JD because everyone expects to have their pet things included in the published JD, you may need to have two documents: one internal and one external. However, giving your candidate a clear idea of what they'll be evaluated on is not only fair to them, it also means the candidates will be as prepared as possible.
 

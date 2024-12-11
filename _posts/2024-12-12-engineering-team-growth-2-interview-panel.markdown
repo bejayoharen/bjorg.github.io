@@ -83,5 +83,6 @@ The decision of extending an offer is usually up to the hiring manager, though i
 
 If you go against someone on the panel when you make an offer, be prepared. I think it's worth having a one on one with the person who objected to let them know you hear their objections, but you are not taking their advice, and explain why. You don't want one of the panelist to be resentful about a hiring choice, so it's worth making sure they understand the decision, and feel like you heard them out.
 
+# Footnotes
 
 [^pairing]: pairing on interviews has other benefits like keeping team members accountable for preparation, and training people who are less experienced at hiring.
