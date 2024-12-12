@@ -7,7 +7,7 @@ permalink: /topics/
 I wasn't sure if I had enough to say to write a blog, so I brainstormed some ideas, and it seems I do. Here are some things I plan to cover at some point or other. Topics here are organized conceptually. Please reach out and let me know if some of these seem especially interesting, and I'll prioritize them:
 
 * [Engineering Management](/categories/#management)
-	* [Engineering team growth](/engineering-team-growth/)
+	* [Engineering team growth](/series/engineering-team-growth/)
 	* Regular Manager Meetings
 	* [Effecive Strategy](/management/effective-strategy/)
 	* [The myth of microservice isolation](/management/myth-of-micrservice-isolation/)
