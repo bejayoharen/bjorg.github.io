@@ -9,7 +9,7 @@ header:
     og_image: "/assets/images/team-growth-1.png"
     teaser: "/assets/images/team-growth-1.png"
 ---
-*This is part three in a series on Engineering team growth. Although a lot of info in this post stands on its own, you may want to read [part 1](/management/engineering-team-growth-1-job-description/) first, where I explain how to write a good job description, and then [part 2](/management/2024-12-12-engineering-team-growth-2-interview-panel/), where I explain how to prep the interview panel.*
+*This is part three in a [series on Engineering team growth](/series/engineering-team-growth/). Although a lot of info in this post stands on its own, you may want to read [part 1](/management/engineering-team-growth-1-job-description/) first, where I explain how to write a good job description, and then [part 2](/management/2024-12-12-engineering-team-growth-2-interview-panel/), where I explain how to prep the interview panel.*
 
 # Interview basics
 

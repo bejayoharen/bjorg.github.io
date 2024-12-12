@@ -9,6 +9,8 @@ header:
     og_image: "/assets/images/team-growth-1.png"
     teaser: "/assets/images/team-growth-1.png"
 ---
+*This is part one in a series on [engineering team growth](/series/engineering-team-growth/).*
+
 Hiring is, arguably, the most important thing you do at work. Who you hire shapes what the company will look like in the future more than many other decisions you can make. Let’s talk about one of the most important parts of the process: the job description or "JD".
 
 # What makes the JD so important?

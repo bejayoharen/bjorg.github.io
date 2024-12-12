@@ -10,7 +10,7 @@ header:
     teaser: "/assets/images/team-growth-1.png"
 ---
 
-*This is part two in a series on Engineering team growth. I suggest you read [part 1](/management/engineering-team-growth-1-job-description/) first, where I explain how to write a good job description. Having a good job description is critical because it’s the document that everyone on the interview panel should understand and be bought into. There should be no doubts about what is and isn’t required for the job. The next step is to choose people for the interview panel, and break down the requirements into concrete interview plans.*
+*This is part two in a [series on Engineering team growth](/series/engineering-team-growth/). I suggest you read [part 1](/management/engineering-team-growth-1-job-description/) first, where I explain how to write a good job description. Having a good job description is critical because it’s the document that everyone on the interview panel should understand and be bought into. There should be no doubts about what is and isn’t required for the job. The next step is to choose people for the interview panel, and break down the requirements into concrete interview plans.*
 
 # Selecting your interview panel
 

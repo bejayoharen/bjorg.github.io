@@ -7,14 +7,7 @@ permalink: /topics/
 I wasn't sure if I had enough to say to write a blog, so I brainstormed some ideas, and it seems I do. Here are some things I plan to cover at some point or other. Topics here are organized conceptually. Please reach out and let me know if some of these seem especially interesting, and I'll prioritize them:
 
 * [Engineering Management](/categories/#management)
-	* Engineering team growth:
-		1. [Writing the perfect job description](/management/engineering-team-growth-1-job-description/)
-		2. The interview panel
-		3. Structuring interviews
-		4. Onboarding and training
-		5. Sourcing candidates
-		6. Making candidates want tow work for you
-		7. Dealing with a larger organization
+	* [Engineering team growth](/engineering-team-growth/)
 	* Regular Manager Meetings
 	* [Effecive Strategy](/management/effective-strategy/)
 	* [The myth of microservice isolation](/management/myth-of-micrservice-isolation/)
