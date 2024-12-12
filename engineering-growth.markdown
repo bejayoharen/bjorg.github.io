@@ -17,9 +17,9 @@ This series of articles discusses the process of growing teams from hiring and i
 Some other great resources on this topic include:
 
 * [Smart and Gets Things Done](https://www.joelonsoftware.com/2007/06/05/smart-and-gets-things-done/) by Joel Spolsky (he's also written some [nice blogs](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) on the subject)
-* [An elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/) by Will Larson, who's alo got a [number of blog posts] (https://lethain.com/tags/hiring/) about hiring and other topics.
+* [An elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/) by Will Larson, who's alo got a [number of blog posts](https://lethain.com/tags/hiring/) about hiring and other topics.
 * [Streamlining hiring](https://hbr.org/2022/07/its-time-to-streamline-the-hiring-process)
-* [Importance of the first day](https://www.inc.com/jeff-haden/google-spent-years-researching-best-way-to-get-new-employees-up-to-speed-faster-secret-a-simple-15-minute-conversation.html
+* [Importance of the first day](https://www.inc.com/jeff-haden/google-spent-years-researching-best-way-to-get-new-employees-up-to-speed-faster-secret-a-simple-15-minute-conversation.html)
 * [Hiring a diverse team](https://newsletter.pragmaticengineer.com/p/hiring-a-diverse-team)
 * [Conducting a structured interview](https://recruiterflow.com/blog/structured-interview-process-psychology/?utm_source=pocket_shared)
 * [The Culture Code](https://danielcoyle.com/the-culture-code/) by Daniel Coyle.
