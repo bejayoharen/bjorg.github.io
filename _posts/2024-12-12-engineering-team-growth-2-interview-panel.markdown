@@ -22,9 +22,7 @@ Depending on the role, you might want to include important stakeholders. For exa
 
 I’ve worked at companies that have separate “culture fit” or “another perspective from another department” type interviews, but I recommend against them. These are a waste of time at best and biased at worst. Instead, I prefer to evaluate soft-skills like communication, collaboration, empathy and prioritization explicitly.
 
-Many companies always include someone like the CEO or other leader. These leaders often don’t have objective criteria they use in the interview. Sometimes they go in completely unprepared, and their decision usually comes down to who they like. However, a good leader usually won’t override the hiring manager’s decision unless their objection is reasonable, and their involvement is not without advantages: it signals to the candidate the importance of the role, while giving them a chance to ask the higher-up questions about the rest of the company. It’s also a good sign when someone like the CEO understands the importance of hiring, even if they aren’t fully embedded in the process.
-
-I once had a founder try to block me from hiring a great engineer. The reasoning he gave was that the candidate didn’t use social media much. This was an absurd objection considering how many of the existing staff also didn’t use social media much, not to mention how little the founder himself himself used social media. Ultimately the higher-up was comfortable with me overriding his objection and we were able to extend an offer.
+Many companies always include someone like the CEO or other leader. These leaders often don’t have objective criteria they use in the interview. Sometimes they go in completely unprepared, and their decision usually comes down to who they like. However, a good leader won’t override the hiring manager’s decision unless their objection is reasonable. Their involvement has other advantages: it signals to the candidate the importance of the role, while giving them a chance to ask the higher-up questions about the rest of the company. It’s also a good sign when someone like the CEO understands the importance of hiring, even if they aren’t fully embedded in the process.
 
 # Establishing test criteria
 
@@ -40,7 +38,7 @@ Let’s look at a simplified JD and figure out how to break it down:
 > 5. Skilled at understanding user intent, and working with the design team to provide intuitive solutions to user’s problems.
 > 6. Able to prioritize projects with little guidance.
 
-You’ll want to assign testing for the first criteria to a panelist who’s very experienced in Javascript, Typescript and React. That panelist will need to come up with a good way to test as objectively as possible. Evaluating a candidate’s skill might include showing them some out of date code and asking them to identify issues and ask how they would update it, rather than writing fresh code. This kind of test asks the candidate to do something that's actually representative of the kind of work they might do on the job.
+You’ll want to assign testing for the first criteria to a panelist who’s very experienced in Javascript, Typescript and React. That panelist will need to come up with a good way to test as objectively as possible. Rather than writing fresh code, evaluating a candidate’s skill might include showing them some out of date code, asking them to identify issues, and ask how they would update it. This kind of test asks the candidate to do something that's more representative of the kind of work they might do on the job.
 
 The same panelist, in the same interview, can also test for the second criteria by asking follow-up questions like “how would you explain that decision to another developer who doesn’t have experience with hooks?”
 
@@ -50,15 +48,15 @@ How well candidates perform on each of those questions would be the basis for a 
 > * The candidate was able to suggest a better solution.
 > * The candidate was able to explain the solution in terms a less experienced engineer would understand.
 
-You can assign a number of points to each item if you want to score like a teacher would score a test, if you like.
+You can assign a number of points to each item if you want to score like a teacher would score a test, or you can just check each item they did.
 
 # A word about leetcoding
 
 At the risk of jumping into the debate about white-board and leetcoding interviews, I'll state my opinion on them. In general, with the rise of remote interviews and AI assistants that can be used to ace these questions, I think leetcoding is growing less useful. Having both aced and failed in-person white-board leetcoding interviews myself, I have to wonder how useful they ever were.
 
-However, I'm not completely opposed to them either. They aren't the best representation of work we do as software engineers, but it's hard to be really good at software engineering without being able to pass some simple leetcode tests, so I keep them handy in my toolkit for times when I don't have a clearly written JD, or we are okay hiring someone with less experience, who might not yet be great at real-world tasks. I particularly like simple white-boarding questions for junior and intern engineers, who still need to learn on-the-job skills and what you really need to assess is if they can write code.
+However, I'm not completely opposed to them either. They aren't the best representation of work we do as software engineers, but it's hard to be really good at software engineering without being able to write some challenging code, so I still keep them handy in my toolkit for times when I don't have a clearly written JD, or we are hiring a junior engineer, who might not yet be great at real-world tasks. I particularly like simple white-boarding questions for junior and intern engineers, who still need to learn on-the-job skills and what you really need to assess is if they can write code.
 
-Regardless, I recommend avoiding anything too common (like "reverse a string" which practically everyone has done already) or too tricky (like "find all prime numbers from 1 to 1000" which requires knowledge of the sieve of Eratosthenes or else it becomes overly complex). Simple tasks that require two, preexisting data structures work well (eg "find the most common word in a given list"). I don't believe these tests can be used to determine someone's overall experience or the depth of their knowledge or experience.
+Regardless, I recommend avoiding anything too common (like "reverse a string" which practically everyone has done already) or too tricky (like "find all prime numbers from 1 to 1000" which requires knowledge of the sieve of Eratosthenes or else it becomes overly complex). Simple tasks that require two, preexisting data structures work well (eg "find the most common word in a given list"). I don't believe these tests can be used to determine someone's overall experience or the depth of their knowledge or experience, so I don't see too much point in making them overly complex or tricky.
 
 # Post Interview
 
@@ -77,11 +75,13 @@ Ideally, everyone should jot down their notes and the results of their interview
 
 As the hiring manager, you might have to override some objections. For example, I once had a panelist object to hiring someone because she felt the person wasn't going to be "fun" enough, even though that person passed all the tests. Since being "fun" wasn't part of the job requirements (I wasn't hiring an entertainer) I overruled that objection.
 
-On the other hand, I had a coworker who hired someone even after rejecting them himself because the panel strongly voted in favor. He confessed to me that hiring that candidate was one of the best decisions he ever made and it taught him to "trust the process".
+More challenging can be overruling an objection for a C-level. I once had a C-level object that an engineer we were hiring didn't have use social media. This was not a job requirement so it was easy to dismiss the objection, but it's important to be extra polite in these situations.
+
+On the other hand, I had a coworker who hired someone even after rejecting them himself because the panel strongly voted in favor. He later told me that hiring that candidate was one of the best decisions he ever made and it taught him to "trust the process".
 
 The decision of extending an offer is usually up to the hiring manager, though it depends on the company (some companies allow anyone on the panel to reject a candidate, for example). My rule of thumb is: if the candidate passes the tests and there are no red flags (or you’ve investigated the red flags sufficiently) you should extend that person an offer. It would be nice to have multiple people to compare and pick the best one, but in engineering we don't usually have that luxury, which makes it all the more important we have clear criteria up-front.
 
-If you go against someone on the panel when you make an offer, be prepared. I think it's worth having a one on one with the person who objected to let them know you hear their objections, but you are not taking their advice, and explain why. You don't want one of the panelist to be resentful about a hiring choice, so it's worth making sure they understand the decision, and feel like you heard them out.
+Regardless, if someone on the panel disagrees with your decision to make an offer, be prepared. It may be worth having a one on one with the person who objected to let them know you hear their objections, but you are not taking their advice, and explain why. You don't want one of the panelist to be resentful about a hiring choice, so it's worth making sure they understand the decision, and feel like you heard them out.
 
 # Footnotes
 
