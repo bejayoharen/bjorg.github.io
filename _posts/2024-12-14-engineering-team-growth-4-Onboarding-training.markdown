@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Engineering team growth part 4: Onboarding and training"
-date:   2024-12-13 01:01:00 -0400
+date:   2024-12-14 01:01:00 -0400
 categories: management
 excerpt: Getting employees as productive as possible as quickly as possible.
 header:

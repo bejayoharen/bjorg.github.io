@@ -9,23 +9,23 @@ header:
     og_image: "/assets/images/team-growth-1.png"
     teaser: "/assets/images/team-growth-1.png"
 ---
-*This is part three in a [series on Engineering team growth](/series/engineering-team-growth/). Although a lot of info in this post stands on its own, you may want to read [part 1](/management/engineering-team-growth-1-job-description/) first, where I explain how to write a good job description, and then [part 2](/management/2024-12-12-engineering-team-growth-2-interview-panel/), where I explain how to prep the interview panel.*
+*This is part three in a [series on Engineering team growth](/series/engineering-team-growth/). Although a lot of info in this post stands on its own, you may want to read [part 1](/management/engineering-team-growth-1-job-description/) first, where I explain how to write a good job description, and then [part 2](/management/engineering-team-growth-2-interview-panel/), where I explain how to prep the interview panel.*
 
 # Interview basics
 
 The goal of interviewing someone is to determine if they will be a productive member of your team. Productivity should include more than the work they contribute directly, and include adding to the team’s knowledge, morale, and ability to function. It’s no good hiring someone who lacks coding skills, but it’s also no good hiring someone who needs to be micromanaged because they can’t prioritize tasks or someone who off-puttingly whines about every task and brings the whole team down.
 
-To assess all this in a short amount of time is hard, and I’m not sure the perfect interview strategy exists to always filter out the problem candidates and always identify the shining stars. However, for all the cries of “tech interviews are broken”, sticking to tried and true interview techniques actually works fairly well, especially if you understand how and why they work, but the process is still quite difficult and imperfect – we all know that great engineer who made it through 8 rounds and somehow didn’t get the job.
+To assess all this in a short amount of time is hard, and I’m not sure the perfect interview strategy exists to always filter out the problem candidates and always identify the shining stars. However, for all the cries of “tech interviews are broken”, sticking to research-based, tried and true interview techniques actually works fairly well, especially if you understand how and why they work, but the process is still quite difficult and imperfect – we all know that great engineer who made it through 8 rounds and somehow didn’t get the job.
 
-[Joel Solsky emphasizes two things](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385?ie=UTF8&s=books&qid=1181076229&sr=8-1) you need to identify in a candidate: 1. They are smart, and 2. They can get things done. If you can identify candidates that meet these criteria, he says, it’s likely a good hire. While I agree with him, I’ve seen problems with how people interpret “smart” to mean whatever they think of as smart. For example, many big tech companies consider you smart because of where you got your degree or your ability to solve abstract problems that have little to do with day-to-day work, and that’s not especially useful.
+[Joel Spolsky emphasizes just two things](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385?ie=UTF8&s=books&qid=1181076229&sr=8-1) you need to identify in a candidate: 1. They are smart, and 2. They can get things done. If you can identify candidates that meet these criteria, he says, it’s likely a good hire. While I agree with him, I’ve seen problems with how people interpret “smart” to mean whatever *they* think of as smart. For example, many big tech companies consider you smart because of where you got your degree or your ability to solve abstract problems.
 
-This is why I prefer to think in terms of finding someone who can do the job. To do this, go through each requirement on the JD and find a way to test it. For example, if the job involves coding in Python, you should ask them to write some code in Python. If it involves dealing with a complex codebase, you should give them a complex codebase and see if they can deal with it. If it involves collaborating with stakeholders, give them a sample scenario with stakeholders and ask how they’d handle it.
+A UC Berkley grad who can accurately estimate the number of pennies that fit inside the statue of liberty and rigorously prove that the big O performance of all operations of a red black tree is O(long n) is certainly smart. But I prefer to think in terms of finding someone who can do the job. To do this, I go through each requirement on the JD and find a way to test it. For example, if the job involves coding in Python, I ask the candidate to write some code in Python. If it involves dealing with a complex codebase, I give them a complex codebase and see if they can deal with it. If it involves collaborating with stakeholders, I give them a sample scenario with stakeholders and ask how they’d handle it.
 
 In any given interview, you can likely only check one or two items from the JD, so you should work with your panel to decide who is responsible for testing each skill. Once you know what skill you are testing for, you should come up with a technical question or assessment to determine the candidate’s abilities.
 
-You’ll also want to take some time to dig into their experience, but it’s important to realize the limitations of asking questions about the past. Questions starting with “tell me about a time when…” and “how do you approach….” are easily prepared for and easily lied about. It’s much more telling to present a hypothetical scenario and see how they handle it. Eg “imagine you are on a team with a full roadmap and already behind on your timeline. Now a stakeholder asks to add new features to one of the projects. How would you address that stakeholder?”
+You’ll also want to take some time to dig into their experience, but it’s important to realize the limitations of asking questions about the past. Questions starting with “tell me about a time when…” and “how do you approach…” are easily prepared for and easily lied about. It’s much more telling to present a hypothetical scenario and see how they handle it. Eg “imagine you are on a team with a full roadmap and already behind on your timeline. Now a stakeholder asks to add new features to one of the projects. How would you address that stakeholder?”
 
-Finally, you’ll want to make sure you are conveying information to the candidate, not just getting information from them. While answering their questions, be sure to sell them on your place of work – this is your chance to ensure that they take the job if they receive an offer, and that they feel good about the company even if you don't extend an offer. I had a nice interview at DuoLingo and even though I decided the position wasn't a good fit before the interviews finished, I left feeling great about the company and even wanting to other engineers to them.
+Finally, you’ll want to make sure you are conveying information to the candidate, not just getting information from them. Be sure to sell them on your place of work. This is your best opportunity to influence them to take the job if they receive an offer, and that they feel good about the company even if you don't extend an offer. I had a nice interview at DuoLingo and even though I decided the position wasn't a good fit before the interviews finished, I left feeling great about the company and even wanting to other engineers to them.
 
 # Sample interview structure
 
@@ -46,22 +46,20 @@ You’ll want to spend a few minutes letting the candidate get comfortable. Inte
 
 * who I am.
 * how long I’ve been at the company and what I’ve done there.
-* what my job is and how it relates to the position being hired for, and how we might work together.
+* what my job is, how it relates to the position being hired for, and how we might work together.
 * what I like about my job and the company.
-* what the rest of the interview is going to look like, and check if that sounds good to them.
+* what the rest of the interview is going to look like.
 
 # Resume Questions
 
-Notice this section is not called “resume review”. To make the most efficient use of time, you’ll want to focus on questions or concerns you have about their resume. While it might seem nice to let the candidate tell their story, their story should be clear to you already from having read their resume in advance. Moreover, abdicating control of the interview allows the candidate to give you their rehearsed highlight reel.
+Notice this section is not called “resume review”. While it might seem nice to let the candidate tell their story, their story should be clear to you already from having read their resume in advance. Moreover, abdicating control of the interview allows the candidate to give you their rehearsed highlight reel. Focus on questions or concerns *you* have about their resume.
 
-Instead of the "walk me through your resume" routine, take these ten minutes to ask specific questions about specific items on the resume that popped out at you. This gives you a chance to see if they are able to communicate about the work they did in simple language, and find out if there were major team accomplishments that they took credit for on their resume but hardly contributed to. I like to pick a previous job and ask these questions:
+So, instead of the "walk me through your resume" routine, take these ten minutes to ask specific questions about specific items on the resume that popped out at you. This gives you a chance to see if they are able to communicate about the work they did in simple language, and find out if there the major accomplishments listed on their resume really represented their work and not their teammate's. I like to pick a previous job and ask these questions:
 
-* “How did the company make money, and how did you contribute to the company’s revenue or reduce costs?” You want to make sure you are hiring someone who understands how their work matters to the bottom line, and can communicate in clear language.
+* “How did the company make money, and how did you contribute to the company’s revenue or to reducing costs?” You want to make sure you are hiring someone who understands how their work matters to the bottom line, and can communicate their impact in clear language.
 * “Who was on your team?” Follow this up by asking about everyone’s role on the team to understand what they really were (and were not) responsible for.
-* “What was your role in [some accomplishment]?” Dig in enough to find out if the accomplishments on the resume were inflated, or actually done by someone else.
+* “What was your role in [some accomplishment]?” Dig in enough to find out if the accomplishments on the resume were inflated, or perhaps actually done by someone else.
 * “What were some of the challenges you faced in [some accomplishment]?” This will give you a real sense of how they operate and deal with pushback, or if others were, in fact, dealing with those thorny problems.
-
-Using these questions, I’ve more than once caught outright lies.
 
 # Technical Question(s)
 
@@ -104,11 +102,11 @@ It’s not uncommon, for any type of question, for an interviewee to need to ask
 
 Always leave a few minutes at the end of the interview for them to ask questions. This is a good chance to put your best foot forward for the company and sell the candidate on the best parts of the job. You want to make sure candidates leave the interview feeling good about the company.
 
-Some people evaluate the candidate asks to see if they prove, through their questions, that they’ve done their research, are sufficiently prepared, or exhibit curiosity. Personally I don’t do this. I’m not going to judge someone who needs to rest their brains a bit between eight interviews with my company alone.
+Some people evaluate the candidate asks to see if they prove, through their questions, that they’ve done their research, are sufficiently prepared, or exhibit curiosity. Personally I don’t do this. I’m not going to judge someone who needs to rest their brains a bit between interview sessions.
 
 # Post interview
 
-When the interview is over, your work is not done. It’s important to make an assessment. The best way to do this is right after the interview, using a rubric you devised ahead of time. I recommend writing your assessment before talking to anyone else, so your thoughts aren't colored by other people's opinions.
+When the interview is over, your work is not done. It’s important to make an independent assessment of the candidate's performance. The best way to do this is right after the interview, using a rubric you devised ahead of time. I recommend writing your assessment before talking to anyone else, so your thoughts aren't colored by other people's opinions.
 
 Hopefully the hiring manager for the role has given you a form or document to fill out, but if not, here’s what I like to jot down after every interview:
 
@@ -121,4 +119,4 @@ Hopefully the hiring manager for the role has given you a form or document to fi
 
 # Footnotes
 
-[^1]: I don’t actually ask about google because it only needs two simple endpoints (one to return the home page and one to return the search results. Both are GET requests with HTML responses), but you get the idea. A better question might be about a system built as a monolith, and a new feature needs to be added. "Do you build it into the monolith or as a new service?" Or "given an existing monolith, what part might you break out into a microservice first?" These kinds of things are much more common real-world scenario than building a system with 15 microservices all coming into being at once.
+[^1]: I don’t actually ask about Google because this problem only needs two simple endpoints (one to return the home page and one to return the search results. Both are GET requests with HTML responses), but you get the idea. Another question you could ask might be about a system built as a monolith, and a new feature needs to be added. "Do you build it into the monolith or as a new service?" Or "given this complex existing monolith, what part might you break out into a microservice first?" These kinds of things are much more common real-world scenarios than building a system with 15 microservices all coming into being at once.

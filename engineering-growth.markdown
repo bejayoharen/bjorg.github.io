@@ -8,7 +8,7 @@ This series of articles discusses the process of growing teams from hiring and i
 
 1. [Writing the perfect job description](/management/engineering-team-growth-1-job-description/)
 2. [The interview panel](/management/engineering-team-growth-2-interview-panel/)
-3. Structuring interviews
+3. [Structuring interviews](/management/engineering-team-growth-3-structuring-interviews/)
 4. Onboarding and training
 5. Sourcing candidates
 6. Making candidates want tow work for you
@@ -23,3 +23,4 @@ Some other great resources on this topic include:
 * [Hiring a diverse team](https://newsletter.pragmaticengineer.com/p/hiring-a-diverse-team)
 * [Conducting a structured interview](https://recruiterflow.com/blog/structured-interview-process-psychology/?utm_source=pocket_shared)
 * [The Culture Code](https://danielcoyle.com/the-culture-code/) by Daniel Coyle.
+* [Hire more women in tech](https://www.hiremorewomenintech.com/)
