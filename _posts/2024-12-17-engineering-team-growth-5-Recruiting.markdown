@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Engineering team growth part 5: Recruiting"
-date:   2024-12-15 01:01:00 -0400
+date:   2024-12-17 01:01:00 -0400
 categories: management
 excerpt: The best way to recruit candidates changes with the market, the size of your company, and many other factors. It’s best to have a variety of techniques at your disposal.
 header:

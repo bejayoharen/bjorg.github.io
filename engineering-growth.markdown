@@ -9,7 +9,7 @@ This series of articles discusses the process of growing teams from hiring and i
 1. [Writing the perfect job description](/management/engineering-team-growth-1-job-description/)
 2. [The interview panel](/management/engineering-team-growth-2-interview-panel/)
 3. [Structuring interviews](/management/engineering-team-growth-3-structuring-interviews/)
-4. Onboarding and training
+4. [Onboarding and training](http://localhost:4000/management/engineering-team-growth-4-Onboarding-training/)
 5. Sourcing candidates
 6. Making candidates want to work for you
 7. Dealing with a growing organization
