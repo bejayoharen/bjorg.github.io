@@ -9,22 +9,21 @@ header:
     og_image: "/assets/images/team-growth-1.png"
     teaser: "/assets/images/team-growth-1.png"
 ---
-*This is part four in a [series on Engineering team growth](/series/engineering-team-growth/).*
-*This is part four in a [series on Engineering team growth](/series/engineering-team-growth/).*
+*This is part five in a [series on Engineering team growth](/series/engineering-team-growth/).*
 
 Before you can hire or even interview, you need to find candidates. How this happens changes with the market, the size of your company, and many other factors down to time of year. It’s best to have a variety of techniques at your disposal.
 
 # Referrals
 
-In many ways, referrals are the best way to hire: they are more likely to pass the interview process and be a good fit. Some companies offer referral bonuses to incentivize referrals, which is often less expensive for the company than other recruiting tactics.
+In many ways, referrals are the best way to hire: they are more likely to pass the interview process and tend to work out well when hired. Referrals are fantastic when you can use them. They are especially useful for early stage companies that don’t have deep pockets for recruiters, or time to sift through thousands of resumes.
 
-Referrals are fantastic when you can use them. They are especially useful for early stage companies that don’t have deep pockets for recruiters, or time to sift through thousands of resumes.
+Because they tend to work out so well, some companies offer referral bonuses, which is often less expensive than other recruiting tactics.
 
-The major downside to referrals is they tend to lead to less diverse teams, but I’ve worked at companies where referrals are given less rigorous hiring criteria, and so they can lead to lower quality hires if you aren’t careful. There are also some legal issues you should be aware of if you are offering referral bonuses.
+The major downside to referrals is they tend to lead to less diverse teams. I've also seen companies hire less qualified candidates because they were referrals who weren't given as rigorous an interview process. There are also some legal issues you should be aware of if you are offering referral bonuses.
 
 # Advertising
 
-There are a million job forums out there, LinkedIn being the 500 pound gorilla. You can post jobs on these forums and expect to get a million responses. In my experience, it’s too much to sift through and you might achieve better results from niche sites that cater to developers. I once got a great job from stack overflow, which, sadly, no longer has recruiting pages, but [Wellfound](https://wellfound.com) and [Welcome to the Jungle](https://welcometothejungle.com) work.
+There are a million job forums out there, LinkedIn being the 500 pound gorilla. You can post jobs on these forums and expect to get a million responses. In my experience, it’s too much to sift through and you might achieve better results from niche sites that cater to developers. I once got a great job from stack overflow, which, sadly, no longer has recruiting pages, but [Wellfound](https://wellfound.com) and [Welcome to the Jungle](https://welcometothejungle.com) are active.
 
 # Recruiting
 
