@@ -12,7 +12,7 @@ This series of articles discusses the process of growing teams from hiring and i
 4. [Onboarding and training](/management/engineering-team-growth-4-Onboarding-training/)
 5. [Recruiting](/management/engineering-team-growth-5-Recruiting/)
 6. [Making candidates want to work for you](/management/engineering-team-growth-6-making-candidates-want-to-work-for-you/)
-7. Dealing with a growing organization
+7. [Dealing with a growing organization](/management/engineering-team-growth-7-Dealing-with-organizational-growth/)
 
 Some other great resources on this topic include:
 
