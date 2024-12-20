@@ -6,7 +6,7 @@ header:
     overlay_image: "/assets/images/team-growth-1-dark.png"
     og_image: "/assets/images/team-growth-1.png"
     teaser: "/assets/images/team-growth-1.png"
-excerpt: Index page for 7-part series on engineering team growth. Topics include Writing a JD, preparing the interview panel, structuring interviews, onboarding, recruiting, making candidates want to accept your offer, and dealing with organizational growth.
+excerpt: "Index page for 7-part series on engineering team growth. Topics include: writing a JD, preparing the interview panel, structuring interviews, onboarding, recruiting, making candidates want to accept your offer, and dealing with organizational growth."
 ---
 
 This series of articles discusses the process of growing teams from hiring and interviewing, to onboarding and dealing with an organization of larger size.
