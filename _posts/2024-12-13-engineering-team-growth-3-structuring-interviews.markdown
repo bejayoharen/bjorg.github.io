@@ -19,13 +19,13 @@ To assess all this in a short amount of time is hard, and I’m not sure the per
 
 [Joel Spolsky emphasizes just two things](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385?ie=UTF8&s=books&qid=1181076229&sr=8-1) you need to identify in a candidate: 1. They are smart, and 2. They can get things done. If you can identify candidates that meet these criteria, he says, it’s likely a good hire. While I agree with him, I’ve seen problems with how people interpret “smart” to mean whatever *they* think of as smart. For example, many big tech companies consider you smart because of where you got your degree or your ability to solve abstract problems.
 
-A UC Berkley grad who can accurately estimate the number of pennies that fit inside the statue of liberty and rigorously prove that the big O performance of all operations of a red black tree is O(long n) is certainly smart. But I prefer to think in terms of finding someone who can do the job. To do this, I go through each requirement on the JD and find a way to test it. For example, if the job involves coding in Python, I ask the candidate to write some code in Python. If it involves dealing with a complex codebase, I give them a complex codebase and see if they can deal with it. If it involves collaborating with stakeholders, I give them a sample scenario with stakeholders and ask how they’d handle it.
+A UC Berkley grad who can accurately estimate the number of pennies that fit inside the statue of liberty and rigorously prove that the big O performance of all operations of a red black tree is O(log n) is certainly smart. But I prefer to think in terms of finding someone who can do the job. To do this, I go through each requirement on the JD and find a way to test it. For example, if the job involves coding in Python, I ask the candidate to write some code in Python. If it involves dealing with a complex codebase, I give them a complex codebase and see if they can deal with it. If it involves collaborating with stakeholders, I give them a sample scenario with stakeholders and ask how they’d handle it.
 
 In any given interview, you can likely only check one or two items from the JD, so you should work with your panel to decide who is responsible for testing each skill. Once you know what skill you are testing for, you should come up with a technical question or assessment to determine the candidate’s abilities.
 
 You’ll also want to take some time to dig into their experience, but it’s important to realize the limitations of asking questions about the past. Questions starting with “tell me about a time when…” and “how do you approach…” are easily prepared for and easily lied about. It’s much more telling to present a hypothetical scenario and see how they handle it. Eg “imagine you are on a team with a full roadmap and already behind on your timeline. Now a stakeholder asks to add new features to one of the projects. How would you address that stakeholder?”
 
-Finally, you’ll want to make sure you are conveying information to the candidate, not just getting information from them. Be sure to sell them on your place of work. This is your best opportunity to influence them to take the job if they receive an offer, and that they feel good about the company even if you don't extend an offer. I had a nice interview at DuoLingo and even though I decided the position wasn't a good fit before the interviews finished, I left feeling great about the company and even wanting to other engineers to them.
+Finally, you’ll want to make sure you are conveying information to the candidate, not just getting information from them. Be sure to sell them on your place of work. This is your best opportunity to influence them to take the job if they receive an offer, and ensure that they feel good about the company even if you don't extend an offer. I had a nice interview at DuoLingo and even though I decided the position wasn't a good fit before the interviews finished, I left feeling great about the company and even wanting to refer other engineers to them.
 
 # Sample interview structure
 
@@ -34,7 +34,7 @@ Let’s look at a good way to conduct your interview. Here's a basic outline you
 * Introductions (10 minutes)
 * Resume Questions (10 minutes)
 * Technical Question(s) (30 minutes)
-* Questions (10 minutes)
+* Questions from the Candidate (10 minutes)
 
 You’ll notice this adds up to a full hour. Trying to shorten interviews might save you a few minutes, but it’s unlikely you’ll do a good assessment in 30 or 45 minutes. If you think you can, you probably aren’t asking a hard enough technical question.
 
@@ -54,7 +54,7 @@ You’ll want to spend a few minutes letting the candidate get comfortable. Inte
 
 Notice this section is not called “resume review”. While it might seem nice to let the candidate tell their story, their story should be clear to you already from having read their resume in advance. Moreover, abdicating control of the interview allows the candidate to give you their rehearsed highlight reel. Focus on questions or concerns *you* have about their resume.
 
-So, instead of the "walk me through your resume" routine, take these ten minutes to ask specific questions about specific items on the resume that popped out at you. This gives you a chance to see if they are able to communicate about the work they did in simple language, and find out if there the major accomplishments listed on their resume really represented their work and not their teammate's. I like to pick a previous job and ask these questions:
+So, instead of the "walk me through your resume" routine, take these ten minutes to ask specific questions about specific items on the resume that popped out at you. This gives you a chance to see if they are able to communicate about the work they did in simple language, and find out if the major accomplishments listed on their resume really represented their work and not their teammate's. I like to pick a previous job and ask these questions:
 
 * “How did the company make money, and how did you contribute to the company’s revenue or to reducing costs?” You want to make sure you are hiring someone who understands how their work matters to the bottom line, and can communicate their impact in clear language.
 * “Who was on your team?” Follow this up by asking about everyone’s role on the team to understand what they really were (and were not) responsible for.
@@ -89,7 +89,7 @@ Engineers need to understand which tasks are most critical, and they need to be 
 
 When properly done, this is a great proxy for the kind of work they need to do every day: make decisions about what to work on next and understand what has the most value to the company.
 
-This is a great interview for a product manager to do, because it’s exactly the kind of work they will do with a product manager. Successfully completing this question involves collaboration, communicating with non-engineers as well as making the right decisions.
+This is a great interview for a product manager to do, because it’s exactly the kind of work they will do with a product manager. Successfully completing this question involves collaboration, communicating with non-engineers, and making the right decisions.
 
 ## Other questions
 While I think coding, systems, and prioritization are the core parts of most technical interviews, there are other questions you might want to ask depending on the job requirements. Don’t be afraid to think outside the box a little.

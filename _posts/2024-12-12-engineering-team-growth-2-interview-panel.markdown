@@ -35,14 +35,14 @@ Let’s look at a simplified JD and figure out how to break it down:
 > 2. Support and mentor less experienced teammates in solving technical problems.
 > 3. Navigate a complex Python/Django codebase and make simple changes, including bug fixes and features.
 > 4. Communicate with stakeholders, including developing estimates, informing of delays, and collaborating to find creative solutions.
-> 5. Skilled at understanding user intent, and working with the design team to provide intuitive solutions to user’s problems.
+> 5. Skilled at understanding user intent, and working with the design team to provide intuitive solutions to users' problems.
 > 6. Able to prioritize projects with little guidance.
 
-You’ll want to assign testing for the first criteria to a panelist who’s very experienced in Javascript, Typescript and React. That panelist will need to come up with a good way to test as objectively as possible. Rather than writing fresh code, evaluating a candidate’s skill might include showing them some out of date code, asking them to identify issues, and ask how they would update it. This kind of test asks the candidate to do something that's more representative of the kind of work they might do on the job.
+You’ll want to assign testing for the first criteria to a panelist who’s very experienced in Javascript, Typescript and React. That panelist will need to come up with a good way to test as objectively as possible. Rather than writing fresh code, evaluating a candidate’s skill might include showing them some out of date code, asking them to identify issues, and ask how they would address the issue. This kind of test asks the candidate to do something that's more representative of the kind of work they might do on the job.
 
 The same panelist, in the same interview, can also test for the second criteria by asking follow-up questions like “how would you explain that decision to another developer who doesn’t have experience with hooks?”
 
-How well candidates perform on each of those questions would be the basis for a clear rubric. The interviewer should go in prepared with the question, and an idea of what a good and bad answer look like. For example:
+How well candidates perform on each of those questions would be the basis for a clear rubric. The interviewer should go in prepared with the question, and an idea of what good and bad answers look like. For example:
 
 > * The candidate was able to identify the incorrect use of global variables.
 > * The candidate was able to suggest a better solution.
@@ -56,13 +56,15 @@ At the risk of jumping into the debate about white-board and leetcoding intervie
 
 However, I'm not completely opposed to them either. They aren't the best representation of work we do as software engineers, but it's hard to be really good at software engineering without being able to write some challenging code, so I still keep them handy in my toolkit for times when I don't have a clearly written JD, or we are hiring a junior engineer, who might not yet be great at real-world tasks. I particularly like simple white-boarding questions for junior and intern engineers, who still need to learn on-the-job skills and what you really need to assess is if they can write code.
 
-Regardless, I recommend avoiding anything too common (like "reverse a string" which practically everyone has done already) or too tricky (like "find all prime numbers from 1 to 1000" which requires knowledge of the sieve of Eratosthenes or else it becomes overly complex). Simple tasks that require two, preexisting data structures work well (eg "find the most common word in a given list"). I don't believe these tests can be used to determine someone's overall experience or the depth of their knowledge or experience, so I don't see too much point in making them overly complex or tricky.
+Regardless, I recommend avoiding anything too common (like "reverse a string" which practically everyone has done already) or too tricky (like "find all prime numbers from 1 to 1000" which requires knowledge of the sieve of Eratosthenes or else it becomes overly complex). Simple tasks that require two preexisting data structures work well (e.g., "find the most common word in a given list"). I don't believe these tests can be used to determine someone's overall experience or the depth of their knowledge or experience, so I don't see too much point in making them overly complex or tricky.
 
 # Post Interview
 
 I’ll say more about how to actually conduct interviews in my next post, but for now, let’s assume everyone has done their interviews and evaluated the candidate based on their rubrics. What’s next?
 
-Ideally, everyone should jot down their notes and the results of their interviews before talking to others. This prevents one interviewer with strong feelings or strong persuasion skills from influencing the rest of the panel. Trying to stop people from gossiping, however, is almost impossible, so I try to make jotting down the results as quick and easy as possible. I usually use a google form asking the interviewer the following questions:
+Ideally, everyone should jot down their notes and the results of their interviews before talking to others. This helps ensure that everyone's opinion is heard and their initial impressions are documented. One panelist with strong feelings or persuasion skills can sometimes drown out important points made by others, or bias others into changing their mind before they've even given their opinion.
+
+Trying to stop people from gossiping, however, is almost impossible, so I try to make jotting down the results as quick and easy as possible. I usually use a google form asking the interviewer the following questions:
 
 * Did the candidate pass your tests? (1-5 + open-ended section to elaborate)
 * Does the candidate have the right experience for the job? (1-5 + open-ended section to elaborate)
@@ -75,13 +77,13 @@ Ideally, everyone should jot down their notes and the results of their interview
 
 As the hiring manager, you might have to override some objections. For example, I once had a panelist object to hiring someone because she felt the person wasn't going to be "fun" enough, even though that person passed all the tests. Since being "fun" wasn't part of the job requirements (I wasn't hiring an entertainer) I overruled that objection.
 
-More challenging can be overruling an objection for a C-level. I once had a C-level object that an engineer we were hiring didn't have use social media. This was not a job requirement so it was easy to dismiss the objection, but it's important to be extra polite in these situations.
+More challenging can be overruling an objection from a C-level panelist. I once had a C-level interviewer object that an engineer we were hiring didn't use social media. This was not a job requirement so it was easy to dismiss the objection, but it's important to be extra polite in these situations.
 
-On the other hand, I had a coworker who hired someone even after rejecting them himself because the panel strongly voted in favor. He later told me that hiring that candidate was one of the best decisions he ever made and it taught him to "trust the process".
+On the other hand, I knew a hiring manager who hired someone even after rejecting them himself because the panel strongly voted in favor. He later told me that hiring that candidate was one of the best decisions he ever made and it taught him to "trust the process". In this case, his own objection wasn't a dealbreaker -- if a hiring manager truly feels the candidate isn't up to the job, they can and should make the call not to extend an offer. If it's not clear if something is a dealbreaker, I like to compare the objection to the job description and use that as a reference. If it's still unclear, my recommendation would be to reject the candidate and consider revising the JD.
 
-The decision of extending an offer is usually up to the hiring manager, though it depends on the company (some companies allow anyone on the panel to reject a candidate, for example). My rule of thumb is: if the candidate passes the tests and there are no red flags (or you’ve investigated the red flags sufficiently) you should extend that person an offer. It would be nice to have multiple people to compare and pick the best one, but in engineering we don't usually have that luxury, which makes it all the more important we have clear criteria up-front.
+The final decision to extend an offer is usually up to the hiring manager, though it depends on the company (some companies allow anyone on the panel to reject a candidate, for example). My rule of thumb is: if the candidate passes the tests and there are no red flags (or you’ve investigated the red flags sufficiently) you should extend that person an offer. It would be nice to have multiple people to compare and pick the best one, but in engineering we don't usually have that luxury, which makes it all the more important we have clear criteria up-front.
 
-Regardless, if someone on the panel disagrees with your decision to make an offer, be prepared. It may be worth having a one on one with the person who objected to let them know you hear their objections, but you are not taking their advice, and explain why. You don't want one of the panelist to be resentful about a hiring choice, so it's worth making sure they understand the decision, and feel like you heard them out.
+Regardless, if someone on the panel disagrees with your decision to make an offer, be prepared. It may be worth having a one on one with the person who objected to let them know you hear their objections, but you are not taking their advice, and explain why. You don't want one of the panelists to be resentful about a hiring choice, so it's worth making sure they understand the decision, and feel like you heard them out.
 
 # Footnotes
 
