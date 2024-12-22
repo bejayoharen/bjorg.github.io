@@ -28,7 +28,7 @@ Many companies always include someone like the CEO or other leader. These leader
 
 In engineering, we often default to a particular set of interviews, eg one coding interview, one systems interview, and one product interview. This often works well, but don’t fall into the trap of assuming that’s the right setup for every hire. Instead, tailor your questions for the role by focusing on the requirements in the JD. If you find you need to test for things not on the JD, you should revise the JD so everyone, including candidates, are clear on the expectations.
 
-Let’s look at a simplified JD and figure out how to break it down:
+Let’s look at a simplified JD and figure out how to break it down. A common challenge is finding someone who is an expert in one domain, but still needs to be competent in other domains. This example would be for a Front End engineer who might need to do some work on the backend, eg if they need a tweak to an endpoint to add a new feature.
 
 > Example (simplified) JD requirements section:
 > 1. Debug subtle issues, build complex new features, and keep code up to date with the latest standards in a complex Javascript, Typescript and React codebase.
@@ -79,11 +79,15 @@ As the hiring manager, you might have to override some objections. For example, 
 
 More challenging can be overruling an objection from a C-level panelist. I once had a C-level interviewer object that an engineer we were hiring didn't use social media. This was not a job requirement so it was easy to dismiss the objection, but it's important to be extra polite in these situations.
 
-On the other hand, I knew a hiring manager who hired someone even after rejecting them himself because the panel strongly voted in favor. He later told me that hiring that candidate was one of the best decisions he ever made and it taught him to "trust the process". In this case, his own objection wasn't a dealbreaker -- if a hiring manager truly feels the candidate isn't up to the job, they can and should make the call not to extend an offer. If it's not clear if something is a dealbreaker, I like to compare the objection to the job description and use that as a reference. If it's still unclear, my recommendation would be to reject the candidate and consider revising the JD.
+On the other hand, I knew a hiring manager who hired someone even after initially giving the candidate a poor evaluation. The rest of the panel was strongly in favor of hiring. He later told me that hiring that candidate was one of the best decisions he ever made and it taught him to "trust the process". In this case, his own objection wasn't a dealbreaker -- if a hiring manager truly feels the candidate isn't up to the job, they can and should make the call not to extend an offer. If it's not clear if something is a dealbreaker, I like to compare the objection to the job description and use that as a reference. If it's still unclear, my recommendation would be to reject the candidate and consider revising the JD.
 
 The final decision to extend an offer is usually up to the hiring manager, though it depends on the company (some companies allow anyone on the panel to reject a candidate, for example). My rule of thumb is: if the candidate passes the tests and there are no red flags (or you’ve investigated the red flags sufficiently) you should extend that person an offer. It would be nice to have multiple people to compare and pick the best one, but in engineering we don't usually have that luxury, which makes it all the more important we have clear criteria up-front.
 
 Regardless, if someone on the panel disagrees with your decision to make an offer, be prepared. It may be worth having a one on one with the person who objected to let them know you hear their objections, but you are not taking their advice, and explain why. You don't want one of the panelists to be resentful about a hiring choice, so it's worth making sure they understand the decision, and feel like you heard them out.
+
+# Acknowledgements
+
+Thanks to [Chris Pepper](https://extrapepperoni.com) for his feedback on this post.
 
 # Footnotes
 

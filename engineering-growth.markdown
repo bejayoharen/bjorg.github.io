@@ -29,3 +29,7 @@ Some other great resources on this topic include:
 * [Conducting a structured interview](https://recruiterflow.com/blog/structured-interview-process-psychology/?utm_source=pocket_shared)
 * [The Culture Code](https://danielcoyle.com/the-culture-code/) by Daniel Coyle.
 * [Hire more women in tech](https://www.hiremorewomenintech.com/)
+
+# Acknowledgements
+
+Thanks to [Chris Pepper](https://extrapepperoni.com) for his feedback on this series.
