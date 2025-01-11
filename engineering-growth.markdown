@@ -21,6 +21,7 @@ This series of articles discusses the process of growing teams from hiring and i
 
 Some other great resources on this topic include:
 
+* [Hiring Systems Administrators](https://extrapepperoni.com/2025/01/02/hiring-system-administrators/) By Chris Pepper. Inspired by this series he compares and contrasts his experiences and offers some interesting insights and anecdotes. Even if you are aren't hiring a System Administrator for an HPC system at a non-profit, as he is, I think you'll find this valuable.
 * [Smart and Gets Things Done](https://www.joelonsoftware.com/2007/06/05/smart-and-gets-things-done/) by Joel Spolsky (he's also written some [nice blogs](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) on the subject)
 * [An elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/) by Will Larson, who's alo got a [number of blog posts](https://lethain.com/tags/hiring/) about hiring and other topics.
 * [Streamlining hiring](https://hbr.org/2022/07/its-time-to-streamline-the-hiring-process)
