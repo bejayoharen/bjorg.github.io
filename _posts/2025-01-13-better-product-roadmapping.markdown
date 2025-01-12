@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Better product roadmapping"
-date:   2025-01-11 01:01:00 -0400
+date:   2025-01-13 01:01:00 -0400
 categories: management
 excerpt: A good roadmapping process supports the company’s strategy and helps focus the company’s efforts. However, roadmaps can also be a source of confusion and frustration.
 header:
