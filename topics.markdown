@@ -14,6 +14,7 @@ I wasn't sure if I had enough to say to write a blog, so I brainstormed some ide
 	* [Structuring product and engineering teams](/management/structuring-product-engineering-teams/)
 	* We need a new way to point stories.
 	* [How to estimate engineering projects](/management/how-to-estimate-engineering-projects/)
+	* [Improving product roadmapping](/management/improving-product-roadmapping/)
 	* A Roadmapping System that Works
 	* Keeping Remote Teams on track
 	* [Implementing organizational change part 1: culture and policies](/management/Implementing-organizational-change-part-1-culture-and-policies/)
