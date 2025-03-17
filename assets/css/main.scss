@@ -2,15 +2,35 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
 .social-icons {
-    .fa-star {
-      color: #ffaa00;
-    }
+  .fa-star {
+    color: #ffaa00;
   }
+}
+
+/// -- Custom styles for this site
+figure {
+  float: right;
+  border: 2px solid #666;
+  margin: 1em;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #eee;
+  max-width: min( 50%, 400px );
+  text-align: left;
+}
+
+figure img {
+  max-width: 400px;
+  border-radius: 0;
+  margin: 0;
+}
+
+figcaption {
+  margin: .4em
+}
