@@ -51,6 +51,7 @@ How do you accomplish all that in just 30 days? Here are some specific tactics t
 </figure>
 - [ ] **On-call rotation, and incident response process**. What does a typical event look like? How long does it take to resolve? Are the resolutions satisfactory and do the help prevent future issues? Are alerts tuned when they turn out to be too noisy or too insensitive?
 - [ ] **Systems architecture**. How does the code work / what services are there? How is it hosted? Where are the bottlenecks? Where are the SPFs? What are the uptime requirements for each part? Where is the tech debt?
+- [ ] **Code Structure and Deployment**. Pair with someone (hands on keyboard!) to commit some code. Is it fast, easy and intuitive to find your way around the codebase and deploy? Can you follow what's happening in the deployment process? Is there a canary? Are the tests sufficient? 
 - [ ] **Technical documentation**. How up to date is it? How complete is it? Can you find what you need?
 - [ ] **Budget**. Where is money spent? Which items seem like too much? Which items could be reduced, or need more explanation? What’s the volatility of expenditures? Are there surprises that shouldn’t happen? Where might there be budget flexibility?
 - [ ] **Code repositories**. How is the code is broken into repos? What are the PR policies are in place?
@@ -65,6 +66,7 @@ How do you accomplish all that in just 30 days? Here are some specific tactics t
 - [ ] **Company mission, goals and strategy**. Read and understand the company's strategy, values, and goals.
 - [ ] **Security**. Are the systems protected appropriately? Are VPNs enforced? Is there a proper system for removing access? What is the vulnerable surface area of the system?
 - [ ] **Disaster recovery**. Are there sufficient backups in place? Can the entire system be rebuilt? Are the backups secure?
+- [ ] **Regulations**. What regulations apply to the business? Are they properly enforced? Are there processes in place to make sure they are followed on new products?
 
 ## Observe teams in action
 
@@ -97,11 +99,10 @@ By doing the above steps, you should accomplish all of the following. If not, ta
 - [ ] **Understand the org structure and decision-making process**, both formal and informal.
 - [ ] **Identify key issues**, and have a rough diagnosis of their causes.
 - [ ] **Understand the information hierarchy**. How do you find critical documentation? What is the status of that documentation (i.e. what can be expected to be out of date)? Who are the experts?
-- [ ] **Understand critical metrics**. What metrics does the business live and breathe by? How do you pull those metrics yourself?
+- [ ] **Understand critical metrics/KPIs**. What metrics does the business live and breathe by? How do you pull those metrics yourself?
 - [ ] **Familiarize yourself with key technologies**. What technologies are in use, and which of those do you need to get up to date on.
-- [ ] **Understand business goals and current strategy**. What does the business need to accomplish? How do existing leaders expect the business to change, and what your role is in making that change happen?
-- [ ] **Understand the critical KPIs**. What metrics does the business live and breathe by? How do you pull those metrics yourself?
-- [ ] **Fill in any knowledge gaps**. (such as technologies you aren't familiar with)
+- [ ] **Understand business goals and current strategy**. What does the business need to accomplish? How do existing leaders expect the business to change, and what is your role is in making that change happen?
+- [ ] **Fill in any knowledge gaps**. (such as technologies you aren't familiar with, regulations that apply to this company, etc)
 
 
 # Next steps: developing a strategy
