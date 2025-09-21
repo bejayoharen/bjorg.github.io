@@ -3,7 +3,7 @@ layout: single
 title:  "The hazards of measuring engineering productivity"
 categories: management
 date: 2025-03-12 01:01:00 -0400
-excerpt: Why productivity is hard to measure, but worth thinking about.
+excerpt: Productivity is hard to measure, but worth thinking about.
 header:
     overlay_image: "/assets/2025/productivity-dark.jpg"
     og_image: "/assets/2025/productivity.jpg"
@@ -26,7 +26,7 @@ It’s tempting to believe that one of the most technical and measurement-obsess
 
 In some cases, we can measure business impact. For example, Meta can measure the value of a new product by running an AB test and measuring how much additional engagement the feature creates, which they know how to translate into dollars. By dividing by the amount of time spent on the new product, they can establish a reasonable estimate of productivity.
 
-However, not every company or product team can do the kind of analysis Meta can do, and even Meta is limited in where and when it can apply this analysis. For example, a lot of work engineering does is hard to attribute to a specific project: all that work your team does to ensure smooth deployments can benefit many projects. Meta may be able to amortize those costs over time and across many projects, but for the rest of us, the detailed analysis is probably not worth it.
+However, not every company or product team can do the kind of analysis Meta can do, and even Meta is limited in where and when it can apply this analysis. For example, a lot of work engineering does is hard to attribute to a specific project: all that work your team does to ensure smooth deployments can benefit many projects. Meta may be able to amortize those costs over time and across many projects if they wanted, but for the rest of us, the detailed analysis is probably not worth it.
 
 For many companies, especially small startups and scaleups, it’s often not clear what the dollar value of a project is. While most tech companies (hopefully) have some product providing value for customers and income for the company, most companies also have products and features which have more subtle impact on the business, like creating a press moment.
 
@@ -34,7 +34,7 @@ Even for a product where you can do the necessary measurements, there’s still 
 
 # What can we measure?
 
-Given the above, you might think I’m advocating against trying to measure team performance in any way. That’s not the case – in fact, I think as organizations grow it becomes increasingly more important – more about that in my next post – and I also think it can be useful to think about productivity when planning projects.
+Given the above, you might think I’m advocating against trying to measure team performance in any way. That’s not the case – in fact, I think as organizations grow it becomes increasingly more important – more about that in my next post – and I also think it can be useful to think about productivity when planning projects, even if you don't have the numbers yet.
 
 # Why productivity is still a useful thing to think about
 

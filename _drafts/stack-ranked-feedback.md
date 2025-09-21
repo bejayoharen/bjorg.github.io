@@ -1,0 +1,6 @@
+* Communication and Collaboration (keeps stakeholders up to date. creates documentation when needed. explains technical concepts effectively. participates in code reviews, retros, standups, etc effectively. contributes to improving team process/tools)
+* Execution (delivers quality work on time. estimates and scopes accurately. Ensures quality systems by ensuring code quality, test coverage, secuirty, scalability and performance.)
+* Prioritization (works on the right things at the right time. Keeps stakeholders up to date. )
+* Technical Skills (Has the technical skills to get the job done, including programming and systems design. Structures code in maintainable way. learns and applies new tools as needed.)
+* Ownership and Problem solving (Takes ownership of outcomes, Solves problems proactively, Handles ambiguity effectively)
+* Teamwork & Growth (Supports and mentors others, Gives and receives feedback, Aligns work with team goals)
