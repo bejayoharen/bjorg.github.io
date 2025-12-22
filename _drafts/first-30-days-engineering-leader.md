@@ -2,7 +2,7 @@
 layout: single
 title:  "Your first 30 days as an engineering leader"
 categories: management
-excerpt: Some thoughts on how to spend your first 30 days in a new leadership position.
+excerpt: How to spend your first 30 days in a new engineering leadership position.
 header:
     overlay_image: "/assets/2025/first30-dark.jpg"
     og_image: "/assets/2025/first30.jpg"
@@ -51,14 +51,13 @@ How do you accomplish all that in just 30 days? Here are some specific tactics t
 </figure>
 - [ ] **On-call rotation, and incident response process**. What does a typical event look like? How long does it take to resolve? Are the resolutions satisfactory and do the help prevent future issues? Are alerts tuned when they turn out to be too noisy or too insensitive?
 - [ ] **Systems architecture**. How does the code work / what services are there? How is it hosted? Where are the bottlenecks? Where are the SPFs? What are the uptime requirements for each part? Where is the tech debt?
-- [ ] **Code Structure and Deployment**. Pair with someone (hands on keyboard!) to commit some code. Is it fast, easy and intuitive to find your way around the codebase and deploy? Can you follow what's happening in the deployment process? Is there a canary? Are the tests sufficient? 
-- [ ] **Technical documentation**. How up to date is it? How complete is it? Can you find what you need?
+- [ ] **Code Structure and Deployment**. Pair with someone (hands on keyboard!) to commit some code. Is it fast, easy and intuitive to find your way around the codebase and deploy? Can you follow what's happening in the deployment process? Does the team use canary deployments? Are the tests sufficient? 
+- [ ] **Technical documentation**. How up to date is it? How complete is it? Can you find what you need? Do the existing templates need review?
 - [ ] **Budget**. Where is money spent? Which items seem like too much? Which items could be reduced, or need more explanation? What’s the volatility of expenditures? Are there surprises that shouldn’t happen? Where might there be budget flexibility?
-- [ ] **Code repositories**. How is the code is broken into repos? What are the PR policies are in place?
+- [ ] **Code repositories**. How is the code is broken into repos? What PR policies are in place?
 - [ ] **Integration and deployment pipeline**. Can teams test and deploy changes easily and with low risk?
 - [ ] **Observability and Analytics**. How do teams get the data they need? Can you pull the critical KPIs yourself?
-- [ ] **Documentation**. Where does it live? how up to date is it? Do the existing templates need review?
-- [ ] **Testing**. Is there unit, integration, end to end and smoke testing? What’s the coverage like? Are there good policies in place to promote good testing practices (eg are tests written whenever a bug is found?). Does the team have the testing environments they need (eg, local, development, staging)?
+- [ ] **Testing**. Are there unit, integration, end to end and smoke tests? What’s the coverage like? Are there good policies in place to promote good testing practices (eg are tests written whenever a bug is found?). Does the team have the testing environments they need (eg, local, development, staging)?
 - [ ] **Product Development Process**. How does planning and roadmapping work? How do the teams operate (scrum, kanban, etc)? Do they do regular retros? Does the ticketing system and ticketing policies match the needs of the teams and organization? Does the team celebrate wins? Is the workload steady and sustainable?
 - [ ] **Compensation and titles**. Are people compensated and leveled correctly? Is there a formal title ladder in place? Has it been implemented fairly?
 - [ ] **Employee Lifecycle**. How are new employees interviewed, hired, promoted and onboarded? Is retention a problem or a strength? What do exit interviews tell you?
