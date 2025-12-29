@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Why I'm not adopting the 'AI-First' approach"
+title:  "Why I won't be 'AI-First' in 2026"
 categories: management
 excerpt: AI is already a powerful tool, with tons of potential on the way. Being "AI-First" is not the right way to make use of it.
 header:
@@ -9,11 +9,11 @@ header:
     teaser: "/assets/2025/first30.jpg"
 ---
 
-In 2026, a lot of companies announced they are going "AI-First". Not everyone likes this: Duolingo, for example, came under a lot of fire for [their announcement](https://www.linkedin.com/posts/duolingo_below-is-an-all-hands-email-from-our-activity-7322560534824865792-l9vh/#). Most of the backlash they received came from people accusing them of replacing contractors and human nuance with AI.[^duo] That's a worthwhile conversation, but I'm here to consider something else: why the "AI-first" mindset is bad for business.
+In 2025, a lot of companies announced they are going "AI-First". Not everyone likes this: Duolingo, for example, came under a lot of fire for [their announcement](https://www.linkedin.com/posts/duolingo_below-is-an-all-hands-email-from-our-activity-7322560534824865792-l9vh/#). Most of the backlash they received came from people accusing them of replacing contractors and human nuance with AI.[^duo] That's a worthwhile conversation, but I'm here to consider something else: why the "AI-first" mindset is bad for business.
 
-What does it mean to be "AI-First"? The key element in being AI-First is to change the culture of the company so that everyone considers using AI to solve every task before trying to solve the problem via other means.[^def]
+What does it mean to be "AI-First"? The key element in being AI-First is a company culture in which everyone considers using AI to solve every task before trying to solve the problem via other means.[^def]
 
-I've got a few problems with the idea of jumping to AI first for _everything_.[^luddite]
+I've got a few problems with the idea of jumping first to AI _everything_.[^luddite]
 
 # AI lacks context
 
