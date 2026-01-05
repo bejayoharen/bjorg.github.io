@@ -1,1 +1,8 @@
+to test:
+
 bundle exec jekyll serve --drafts
+
+to upgrade:
+bundle update github-pages
+bundle install
+
