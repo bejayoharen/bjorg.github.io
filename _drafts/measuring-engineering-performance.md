@@ -12,7 +12,7 @@ header:
 
 While [measuring productivity](link to last article) can be hazardous, measuring and tracking measurement of one specific areas of engineering, such as speed of deployment, can be very useful. I'm calling such measurements "performance metrics".
 
-The best performance metrics give us data about things that contribute directly to productivity, which allows us to at least hope that by improving performance, productivity will go up as well. A small collection of the right performance metrics can replace trying to measure productivity.
+The best performance metrics give us data about things that contribute directly to productivity, which allows us to at least hope that by improving performance, productivity will go up as well. A small collection of the right performance metrics can be a reasonable proxy for productivity.
 
 # Selecting metrics for your team
 
@@ -25,7 +25,7 @@ The best performance metrics give us data about things that contribute directly 
 
 There are a million trendy engineering metrics you can use (many of which are described below and in linked articles), but ultimately, the right ones will depend on your situation. I recommend starting small, and just picking a few metrics so you aren't overwhelmed with data.
 
-Selecting the right metrics for your situation may involve some judgement calls. If you are just getting started, I think it’s okay to start with some ad-hoc guestimates rather than trying to come up with detailed measurements for everything right off the bat. For example, instead of measuring how long it takes to deploy a new release or get feedback on a PR, you might just ask your engineers if any of them find it to be a problem. If they say no, it’s likely not worth focusing your efforts there.
+Selecting the right metrics for your situation may involve some judgement calls. If you are just getting started, I think it’s okay to start with some ad-hoc guestimates rather than trying to come up with detailed measurements for everything right off the bat. For example, instead of measuring how long it takes to deploy a new release or get feedback on a PR, you might just ask your engineers to tell you what problems they encounter.
 
 # Continuous improvement metrics
 
