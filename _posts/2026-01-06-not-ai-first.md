@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Why I won't be "AI-First" in 2026
-date:   2026-01-06 12:01:00 -0400
+date:   2026-01-06 01:01:00 -0400
 categories: management
 excerpt: AI is a powerful tool, with tons of potential on the way, but being "AI-First" is not the right way to make use of it.
 header:
