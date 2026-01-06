@@ -4,9 +4,9 @@ title:  "Autonomy and Clarity in Leadership Styles"
 categories: management
 excerpt: Using the right style of leadership at the right time means understanding the pros and cons of each style.
 header:
-    overlay_image: "/assets/2025/first30-dark.jpg"
-    og_image: "/assets/2025/first30.jpg"
-    teaser: "/assets/2025/first30.jpg"
+    overlay_image: "/assets/2026/autonomy-vs-clarity-dark.jpeg"
+    og_image: "/assets/2026/autonomy-vs-clarity.jpeg"
+    teaser: "/assets/2026/autonomy-vs-clarity.jpeg"
 ---
 
 Over the years I've gone back and forth about what is the right approach to management and leadership -- should you give your team the autonomy and trust to develop solutions themselves, or should you give them specific objectives and direct the team in a hands-on way? Should you come to the table with a strong point of view and get as much buy-in as you can, or build consensus by working with all stakeholders to come up with a plan?
