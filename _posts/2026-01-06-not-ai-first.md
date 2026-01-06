@@ -5,9 +5,9 @@ date:   2026-01-06 01:01:00 -0400
 categories: management
 excerpt: AI is a powerful tool, with tons of potential on the way, but being "AI-First" is not the right way to make use of it.
 header:
-    overlay_image: "/assets/2025/first30-dark.jpg"
-    og_image: "/assets/2025/first30.jpg"
-    teaser: "/assets/2025/first30.jpg"
+    overlay_image: "/assets/2026/ai-first-dark.jpeg"
+    og_image: "/assets/2026/ai-first.jpeg"
+    teaser: "/assets/2026/ai-first.jpeg"
 ---
 
 _AI-First is a company culture where everyone tries using AI to solve every task before trying to solve the problem via other means.[^def] I've got a few problems with the idea of jumping first to AI for everything._[^luddite]

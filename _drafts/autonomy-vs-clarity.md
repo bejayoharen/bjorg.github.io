@@ -20,7 +20,7 @@ config:
     themeVariables:
         quadrant1Fill: "#ddd"
         quadrant2Fill: "#ddd"
-        quadrant3Fill: "#ebb"
+        quadrant3Fill: "#ddd"
         quadrant4Fill: "#ddd"
         quadrantInternalBorderStrokeFill: "#aaa"
         quadrantExternalBorderStrokeFill: "#aaaaaa"
