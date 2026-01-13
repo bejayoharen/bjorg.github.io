@@ -1,6 +1,7 @@
-to test:
-
+to test with drafts on:
 bundle exec jekyll serve --drafts
+to test production more (eg, to turn on local google analytics):
+JEKYLL_ENV=production bundle exec jekyll serve --drafts
 
 to upgrade:
 bundle update github-pages
