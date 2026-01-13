@@ -11,7 +11,7 @@ header:
 
 Over the years I've gone back and forth about what is the right approach to management and leadership -- should you give your team the autonomy and trust to develop solutions themselves, or should you give them specific objectives and direct the team in a hands-on way? Should you come to the table with a strong point of view and get as much buy-in as you can, or build consensus by working with all stakeholders to come up with a plan?
 
-I've gone back and forth on these questions over the years only to realize the obvious, that a good leader has a toolkit of different approaches and knows which to apply when. I see the options on a range from focusing on autonomy to focusing on clarity, although, of course, you can never be successful without a little of each.
+Mulling these questions over eventually lead me to the obvious conclusion, that a good leader has a toolkit of different approaches and knows which to apply when. Two very important factors are how much autonomy each approach allows the team to have and how much clarity it gives them about what they need to do, especially since it's hard to give your team a lot of clarity and a lot of autonomy.
 
 <div style="margin: 1em auto; text-align: center; max-width:900px;" class="mermaid">
 ---
@@ -36,23 +36,25 @@ quadrantChart
     By Consensus: [0.7, 0.7]
 </div>
 
+_This chart is obviously a bit hand-wavy, but I think it can be helpful to visualize some of the pros and cons of different approaches._
+
 # Leadership by autonomy
 
-The most common leadership styles I hear talked about these days focus on giving goals and then trusting teams to figure out how to achieve them. Of course there needs to be clarity on a few points -- eg what the goals are -- for the teams to be able to figure out the details themselves and work autonomously.
+The most common leadership styles I hear talked about these days focuses on giving goals and then trusting teams to figure out how to achieve them. Of course there needs to be clarity on a few points -- eg what the goals are -- for the teams to be able to figure out the details themselves and work autonomously.
 
 Some people take this style of leadership so far that they use an [inverted org chart](https://www.organice.app/blog/inverted-org-chart-when-to-use-and-how-to-make-it), with leaders at the bottom. The upside-down org chart highlights who is closest to the work, and may be used as a visual signal to remind people that the [leaders are servants](https://en.wikipedia.org/wiki/Servant_leadership) of the ICs and not the other way around.
 
 Using this principle to organize your company, you start with top-level goals (eg increase revenue 15%), and find smaller "sub-goals" that ladder up to the top-level goal (eg. increase customer retention and increase number of new customers). The sub-goals are assigned to teams and then broken down further and assigned to sub-teams, and so on, until you reach individuals. The [North Star Framework](https://amplitude.com/books/north-star/about-north-star-framework) is a formal process based on this idea.
 
-Personally, I like thinking of giving autonomy as the default way an org should work. A lot of problems can be broken down into sub-problems and tackled independently without too much coordination, and doing so works great for empowering teams to solve problems and is very motivating.
+Personally, I like thinking of giving autonomy as the default way an org should work. A lot of problems can be broken down into sub-problems and tackled independently without too much coordination, and doing so works great for empowering teams to solve problems, all of which is very motivating.
 
-There are, however, lots of ways this style can go wrong. Some problems don't break down neatly into sub-problems and require coordination of the multiple teams or even the whole company. While working at GIPHY, for example, there were times when the CEO or GM had to be very specific about sequencing work across teams to make sure large initiatives or changes in strategic direction could be implemented.
-
-In the worst case, I've seen CEOs use this leadership style as an excuse to do practically no work themselves. Leaders who lean too heavily on this style are the ones who give goals without any reasonable way of believing those goals can be met. They say these goals are "to inspire you", or "get you to think big". These CEOs hope the team figures out the details, and lays people off when they inevitably don't. The failure here is not giving the team too much autonomy, but that the only person with the leverage to make a coordinated strategic change doesn't realize it's their job to do so.
+There are, however, lots of ways this style can go wrong. Some problems don't break down neatly into sub-problems and require coordination of the multiple teams or even the whole company. In the worst case, I've seen CEOs use this leadership style as an excuse to do practically no work themselves. Leaders who lean too heavily on this style are the ones who give goals without any reasonable way of believing those goals can be met. They say these goals are "to inspire you", or "get you to think big". These CEOs hope the team figures out the details, and lays people off when they inevitably don't. The failure here is not giving the team too much autonomy, but that the only person with the leverage to make a coordinated strategic change doesn't realize it's their job to do so. That doesn't mean this style doesn't work, it just means don't use it for everything.
 
 # Leadership by involvement
 
-Instead of giving autonomy, some leaders focus on giving clarity, and involving themselves deeply in many decisions. Some people call this "[founder mode](https://paulgraham.com/foundermode.html)".
+Instead of giving autonomy, some leaders focus more of their time on giving clarity, and involving themselves deeply in many decisions. Some people call this "[founder mode](https://paulgraham.com/foundermode.html)", although I'm not sure that term has a clearly agreed-upon definition.
+
+When I think of a highly involved and highly effective leader, they remain experts in their products, they work with employees at every level of the org, and are invested in details.
 
 Of course there's a limit to how many decisions a single leader can be involved in, so it's important to realize that you need to think carefully about how to scale this style of leadership. As you grow, you need to decide which decisions you need need to be involved in, and still have a system for letting the org make other decisions without you.[^orgdesign]
 
