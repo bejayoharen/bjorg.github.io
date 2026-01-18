@@ -9,9 +9,9 @@ header:
     teaser: "/assets/2026/autonomy-vs-clarity.jpeg"
 ---
 
-Over the years I've gone back and forth about what is the right approach to management and leadership -- should you give your team the autonomy and trust to develop solutions themselves, or should you give them specific objectives and direct the team in a hands-on way? Should you come to the table with a strong point of view and get as much buy-in as you can, or build consensus by working with all stakeholders to come up with a plan?
+Over the years I've gone back and forth about what is the right approach to management and leadership -- should you give your team the autonomy and trust to develop solutions themselves, or should you give them specific objectives and direct the team in a hands-on way? Should you come to the table with a strong point of view and get as much buy-in as you can, or build consensus by working with all stakeholders to come up with a plan together?
 
-Mulling these questions over eventually lead me to the obvious conclusion, that a good leader has a toolkit of different approaches and knows which to apply when. Two very important factors to take into account when making this decision are 1. how much autonomy each approach allows the team to have, and 2. how much clarity it gives them about what they need to do.
+Mulling these questions over eventually lead me to the obvious conclusion: a good leader has a toolkit of different approaches and knows which to apply when. Two very important factors to take into account when deciding which to apply are 1. how much autonomy each approach allows the team to have, and 2. how much clarity it gives them about what they need to do.
 
 <div style="margin: 1em auto; text-align: center; max-width:900px;" class="mermaid">
 ---
@@ -41,24 +41,25 @@ _This chart is obviously a bit hand-wavy, but I think it can be helpful to visua
 # Leadership by autonomy
 
 ### What it is
-The most common leadership styles I hear talked about these days focuses on giving goals and then trusting teams to figure out how to achieve them. Of course there needs to be clarity on a few points -- eg what the goals are -- for the teams to be able to figure out the details themselves and work autonomously. I group these leadership styles together and call it "leadership by autonomy" because that's what it emphasizes.
+The most common leadership styles I hear talked about these days focuses on giving goals and then trusting teams to figure out how to achieve them. I group these leadership styles together and call it "leadership by autonomy" because that's what it emphasizes, however, even in this style, some clarity is still required for the teams to be able to figure out the details themselves and work autonomously. 
 
-Some people take this style of leadership so far that they use different org charts. Eg, the [inverted org chart](https://www.organice.app/blog/inverted-org-chart-when-to-use-and-how-to-make-it), with leaders at the bottom, may be used as a visual signal to remind people that the [leaders are servants](https://en.wikipedia.org/wiki/Servant_leadership) of the ICs and that the ICs have the most context and best positioned to make decisions. I think inverting the org chart is more useful as a gimmick to get people thinking different about everyone's roles than anything else, but it does show how far people take this idea.
+Some people take this style of leadership so far that they design their org charts differently. Eg, the [inverted org chart](https://www.organice.app/blog/inverted-org-chart-when-to-use-and-how-to-make-it), with leaders at the bottom, may be used as a visual signal to remind people that the [leaders are servants](https://en.wikipedia.org/wiki/Servant_leadership) of the ICs and that the ICs have the most context and best positioned to make decisions. I think inverting the org chart is more useful as a gimmick to get people thinking differently about everyone's roles than it is of actual practical value, but it does show how far people take this idea.
 
 A more practical approach might be the [North Star Framework](https://amplitude.com/books/north-star/about-north-star-framework), which aims to give autonomy to teams and individuals by taking top-level goals and breaking them down. For example you might start with a top-level goals such as increasing revenue by 15%. Then you break the goal into sub goals (eg increase customer retention by 15% and increase number of new customers by 10%). The sub-goals can be further broken down until they reach individuals.
 
 ### When to use it
 
-I like thinking of leadership by autonomy as the default way an org should work. For the huge set of problems that can be broken down into sub-problems and tackled independently without too much coordination, this technique is very powerful. This style works great for empowering teams to solve problems, which is very motivating. Use this leadership style to use your team's strengths to break down and solve complex problems.
+I like thinking of leadership by autonomy as the default way an org should work. For the huge set of problems that can be broken down into sub-problems and tackled independently without too much coordination, this technique is very powerful. Empowering teams to solve problems like this is very motivating.
 
 ### Pitfalls
 
-Not all problems break down neatly into sub-problems and instead require coordination of multiple teams or even the whole company. That doesn't mean this style doesn't work, it just means don't use it for problems that require coordinated effort or specific cross-team outcomes to achieve.
+Not all problems break down neatly into sub-problems -- many require coordination of multiple teams or even the whole company. That doesn't mean this style doesn't work, it just means don't use it for problems that require coordinated effort or specific cross-team outcomes to achieve.
 
 # Leadership by involvement
 
 ### What it is
-Instead of giving autonomy, some leaders focus more of their time on involving themselves deeply in many decisions. Some people call this "[founder mode](https://paulgraham.com/foundermode.html)", although I'm not sure that term has a clearly agreed-upon definition.
+
+Instead of giving autonomy, some leaders focus more of their time on involving themselves deeply in day-to-day work of the team. Some people call this "[founder mode](https://paulgraham.com/foundermode.html)", although I'm not sure that term has a clearly agreed-upon definition.
 
 ### When to use it
 
@@ -68,11 +69,11 @@ I also think it's important that as you remain involved, you never give the impr
 
 ### Pitfalls
 
-Of course there's a limit to how many decisions a single leader can be involved in, so it's important to realize that you need to think carefully about how to scale this style of leadership. As you grow, you need to decide which decisions you need need to be involved in, and still have a system for letting the org make other decisions without you.[^orgdesign]
+Of course there's a limit to how many decisions a single leader can be involved in, so you need to think carefully about how to scale this style of leadership. As you grow, you need to decide which decisions you need need to be involved in, and still have a system for letting the org make other decisions without you.[^orgdesign]
 
-Furthermore, if you get too involved in areas where someone perfectly competent is in place already, this can feel like micromanaging. Decide carefully if you need to be deeply involved or simply provide clarity on the plan and expectations.
+Furthermore, if you get too involved in areas where someone better suited to make decisions than you is in place already, getting deeply involved can feel like micromanaging or like constantly second-guessing their decision. Decide carefully if you need to be deeply involved or simply provide clarity on the plan and expectations.
 
-If you don't know the details well, this kind of management can be the worst -- you are now a micromanaging boss who doesn't understand the details. Using this style when you are new to a company or a project is generally a disaster.
+If you don't know the details well, this kind of leadership can be the worst -- you are now a micromanaging boss who doesn't understand the details. Using this style when you are new to a company or a project is generally a disaster.
 
 # Leadership by policy
 
@@ -86,27 +87,47 @@ Leading with policy works best for decisions that are repeated, such as hiring, 
 
 ### Pitfalls
 
-Too much leadership with policy (especially when overly nuanced, detailed or confusing) can make a company feel inflexible and bureaucratic. When big companies try to cover too many cases with policy and complex approval processes, just navigating policy can start to soak up everyone's time. Good policy is clear and simple, and has flexibility to cover a most cases.
+Too much leadership by policy (especially when overly nuanced, detailed or confusing) can make a company feel inflexible and bureaucratic. When big companies try to cover too many cases with policy and complex approval processes, just navigating all the rules can start to soak up everyone's time. Good policy is clear and simple, and has flexibility to cover a most cases.
 
-A good policy is also explicit about when escalations should and should not happen (ie when someone higher up needs to involved in the decision), so be sure to put that in your policies, too.
+A good policy is also explicit about when to step out of the way. Escalations should be a natural part of the process when someone thinks their case deserves different consideration. Ideally, all policies make this explicit and leadership is sympathetic to the judgement of it's team. A simple phrase like "unless decided otherwise by the appropriate committee or executive" can go a long way to keeping a policy simple and flexible.
 
 # Leadership by conviction
 
-Sometimes a problem requires more than just involvement -- it requires a top-down decision. This is where conviction comes in. When leading by conviction, you need to make a decision and do your best to get everyone to buy into it.
+### What it is
 
-Many decisions such as changes in strategy or a reorg, may need to be made this way. However, because of how little autonomy this method gives the people you manage, it can lead to resentment, and having been on the receiving end of poorly executed leadership by conviction, I can attest that it can be a frustrating experience.
+Sometimes a problem requires more than just a decision -- it requires a top-down coordination and strategy. This is where leadership by conviction comes in. When leading by conviction, you need to make a decision (or set of decisions) and get everyone to buy into it.
 
-The only way this method works is if you are able to fully absorb all the info needed to make the decision yourself, otherwise you will make the decision incorrectly. Worse, someone who knows something you don't will know you are making the wrong decision and will loose confidence in you.
+### When to use it
 
-Once you've made the right decision, you need to get buy-in. I like to do this by meeting with everyone one-on-one (in order from the most impacted to the least) and genuinely considering their feedback. If this isn't possible, be ready for the repercussions of upsetting someone. I've heard stories of people walking out or even quitting on the spot when this goes wrong.
+The only way this method works is if you are able to fully absorb all the info needed to make the decision yourself, otherwise you will make the decision incorrectly. If you can absorb the full context, make a good decision about it and convince others you are right, this can be a good way to lead.
+
+Company or department roadmaps and strategy often fall into this category. For example, if you need various teams to achieve certain objectives by certain dates or in certain ways in order to get to your next round of financing, it probably helps to think it through centrally and disseminate the information. The critical thing here is providing clarity about the decision and make sure everyone understands why.
+
+### Pitfalls
+
+The obvious downside of this style is how little autonomy it gives your teams. However, if they are bought in, they will appreciate the clarity it provides. If they are not bought in (ie if the decision is wrong and they know it) it can lead to resentment and loss of trust.
+
+I like to get buy-in by meeting with everyone one-on-one (in order from the most impacted to the least) and genuinely considering their feedback. If this isn't possible, be ready for the repercussions of upsetting someone. I've heard stories of people walking out or even quitting on the spot when this goes wrong.
 
 # Leadership by consensus
 
-Sometimes you need to make a coordinated decision and can't afford the risks of leadership by conviction. Or perhaps no one person has all the context needed to make the right decision. In these cases, you need to drive consensus.
+### What it is
 
-While it might seem like a slow process,[^slow] the kind of deep buy-in that comes from a true consensus can be extremely valuable: everyone feels like they contributed to the targets and everyone feels motivated to contribute. Moreover, getting buy-in when leading from conviction can sometimes take even more time.
+Sometimes you need to make a coordinated decision and can't afford the risks of leadership by conviction. Or perhaps no one person has all the context needed to make the right decision. In these cases, you need to drive consensus by bringing everyone together and agreeing on a course of action.
 
-I like to use consensus when working with a single (not too big) team, because I want everyone motivated and fully bought in. I also like to use it when a decision can't be made by one person alone.
+### When to use it
+
+While it might seem like a slow process,[^slow] the kind of deep buy-in that comes from a true consensus can be extremely valuable: everyone feels like they contributed to the results and everyone feels motivated to contribute.
+
+I like to use consensus when working with a single (not too big) team, because I want everyone motivated and fully bought in. I also like to use it any time a decision can't be made by one person alone.
+
+### Pitfalls
+
+Leadership by consensus can run into trouble when there are genuine disagreements, or people aren't willing to honestly speak up about their concerns. This can lead to suboptimal decisions that not everyone agrees with. Despite the claim of achieving consensus, it can really just create the kind of sub-optimal compromise that everyone is unhappy with.
+
+Sometimes leadership by conviction can masquerade as leadership by consensus. This means a leader pretends to get consensus, but they consistently reject feedback and disagreement and only consider the matter resolved when their point of view prevails. I've seen charismatic leaders get away with some of this without too much bad blood, but I think they'd be better off admitting that they are the one making the decision, rather than pretending everyone agrees.
+
+Consensus also needs to be used judiciously. If it's used too much for every problem you will never move forward. Your business needs ways to make lots of fast decisions and consensus is not one of them. But it is a great way to make important and complex decisions.
 
 
 # Notes
