@@ -72,7 +72,7 @@ _Figure 2. A decision tree can help decide which leadership style to use when. T
 # Leadership by autonomy
 
 ### What it is
-There are as many leadership styles as there are leaders, but many of the most talked about styles can be grouped under "leadership by autonomy" because they all emphasize trusting teams to figure out how to achieve them. That is, they function by trusting in teams and individuals to carry out work autonomously.
+There are as many leadership styles as there are leaders, but many of the most talked about styles can be grouped under "leadership by autonomy" because they all emphasize trusting teams to figure out how to achieve their goals. That is, these styles function by trusting in teams and individuals to carry out work autonomously.
 
 A popular tool among leaders who emphasize this style is the [inverted org chart](https://www.organice.app/blog/inverted-org-chart-when-to-use-and-how-to-make-it). This is used as a visual signal to remind people that the [leaders are servants](https://en.wikipedia.org/wiki/Servant_leadership) of the ICs and that the ICs have the most context and are best positioned to make decisions. Personally, I think inverting the org chart is more useful as a gimmick to get people thinking differently about everyone's roles than it is of practical value.
 
@@ -108,7 +108,7 @@ Instead of giving autonomy, some leaders choose to focus on involving themselves
 
 ### When to use it
 
-When I think of a highly involved and highly effective leader, they remain experts in their products, they work with employees at every level of the org, and are invested in details. Leaders who deeply understand their product and the details of it can be highly effective when engaging employees throughout the org in many aspects of decision making.
+When I think of a highly involved and highly effective leader, they are experts in their products (or other area of responsibility), they work with employees at every level of the org, and are invested in details. Leaders who deeply understand their product and the details of it can be highly effective when engaging employees throughout the org in many aspects of decision making.
 
 As you involve yourself deeply, you should never give the impression of taking over. This style of leadership already reduces autonomy, and that only works if people have confidence in you and feel like your involvement is at least collaborative. This also allows you to operate with your team without understanding each and every tiny detail.
 
@@ -132,9 +132,9 @@ Leading with policy works best for decisions that are repeated, such as hiring, 
 
 ### Pitfalls
 
-Too much leadership by policy (especially when overly nuanced, detailed or confusing) can make a company feel inflexible and bureaucratic. When big companies try to cover too many cases with policy and complex approval processes, just navigating all the rules can start to soak up everyone's time. Good policy is clear and simple, and has flexibility to cover a most cases.
+Too much leadership by policy (especially when overly nuanced, detailed or confusing) can make a company feel inflexible and bureaucratic. When big companies try to cover too many cases with policy and complex approval processes, just navigating all the rules can start to soak up everyone's time. Good policy is clear and simple, and has the flexibility to cover most cases.
 
-A good policy is also explicit about when to step out of the way. Escalations should be a natural part of the process when someone thinks their case deserves different consideration. Ideally, all policies make this explicit and leadership is sympathetic to the judgement of its team. A simple phrase like "unless decided otherwise by the appropriate committee or executive" along with clear steps for how to escalate can go a long way to keeping a policy simple and flexible.
+A good policy is also explicit about when to step out of the way. Escalations should be a natural part of the process when someone thinks their case deserves different consideration. Ideally, all policies make this explicit and leadership is sympathetic to the judgement of each team. A simple phrase like "unless decided otherwise by the appropriate committee or executive", along with clear steps for how to escalate, can go a long way to keeping a policy simple and flexible.
 
 # Leadership by conviction
 
@@ -144,15 +144,15 @@ Sometimes a problem requires more than just a decision -- it requires top-down c
 
 ### When to use it
 
-The only way this method works is if you are able to fully absorb all the info needed to make the decision yourself, otherwise you will make the decision incorrectly. If you can absorb the full context, make a good decision about it and convince others you are right, this can be a good way to lead.
+The only way this method works is if you are able to fully absorb all the info needed to make the decision yourself, otherwise you will make the decision incorrectly. If you can absorb the full context, make a good decision about it, and convince others you are right, this can be a good way to lead.
 
 Company or department roadmaps and strategy often fall into this category. For example, if you need various teams to achieve certain objectives by certain dates or in certain ways in order to get to your next round of financing, it probably helps to think it through centrally and disseminate the information. The critical thing here is providing clarity about the decision and making sure everyone understands the reasoning, and can get behind the decision easily.
 
 ### Pitfalls
 
-The obvious downside of this style is how little autonomy it gives your team. However, if they are bought in, they will appreciate the clarity it provides. If they are not bought in (ie if the decision is wrong and they know it) it can lead to resentment and loss of trust.
+The obvious downside of this style is how little autonomy it gives your team. However, if they are bought in, they will appreciate the clarity it provides. If they are not bought in (i.e., if the decision is wrong and they know it) it can lead to resentment and loss of trust.
 
-If taking the time to get buy-in isn't possible, be ready for the repercussions of upsetting someone. I've heard stories of people walking out or even quitting on the spot when this goes wrong. I like to get buy-in by meeting with everyone one-on-one (in order from the most impacted to the least). I work hard to incorporate whatever feedback I get.
+If taking the time to get buy-in isn't possible, be ready for the repercussions of upsetting someone. I've heard stories of people walking out or even quitting on the spot when this goes wrong. I like to get buy-in by meeting with everyone one-on-one (in order from the most impacted to the least), and I work hard to incorporate whatever feedback I get.
 
 # Leadership by consensus
 
@@ -162,13 +162,13 @@ Sometimes you need to make a coordinated decision and can't afford the political
 
 ### When to use it
 
-While it might seem like a slow process,[^slow] the kind of deep buy-in that comes from a true consensus can be extremely valuable: everyone feels like they contributed to the results and everyone feels motivated to follow through on the plan.
+While it might not be a particularly fast process,[^slow] the kind of deep buy-in that comes from a true consensus can be extremely valuable: everyone feels like they contributed to the results and everyone feels motivated to follow through on the plan.
 
 I like to use consensus whenever I can because I want everyone motivated and fully bought in. I also like to use it any time no one person understands all the details, because then you need to make the decision together anyway.
 
 ### Pitfalls
 
-Sometimes leadership by conviction can masquerade as leadership by consensus. This means a leader pretends to get consensus, but they consistently reject feedback and disagreement and only consider the matter resolved when their point of view prevails. I've seen charismatic leaders get away with some of this kind of ugly behavior without too much bad blood, but I think they'd be better off admitting that they are the one making the decision, rather than pretending it's a group decision.
+Sometimes leadership by conviction can masquerade as leadership by consensus. This means a leader pretends to get consensus, but they consistently reject feedback and disagreement and only consider the matter resolved when their point of view prevails. I've seen charismatic leaders get away with some of this kind of ugly behavior without too much bad blood, but I think they'd be better off admitting that they are the one making the decision, rather than pretending it's a group decision.[^angry]
 
 Leadership by consensus can run into trouble when leaders are listening, but people aren't willing to honestly speak up about their concerns. This is usually a sign of a deeper problem like lack of trust.
 
@@ -179,3 +179,4 @@ Consensus also needs to be used judiciously. If it's used too much for every pro
 
 [^orgdesign]: Dan Hockenmaier [writes](https://www.danhock.co/p/designing-an-org-for-founder-mode): "founder mode organizations maximize the number of decisions made by the founder, up to the limits of their ability to make better or faster decisions." I think it's important to figure out how you decide what to decide.
 [^slow]: Will Larson [argues](https://lethain.com/developing-leadership-styles/) that, "Consensus has a reputation for being slow, but I think that’s an overstated concern. In situations where no one has the entire relevant context, there’s no particularly quick solution to making a robust decision."
+[^angry]: After posting this, a friend of mine wrote me a story that exemplifies how frustrating this can be: "I’m still angry about an incident 4 months ago. My team had been debating an important design choice, without an obvious right answer, for weeks (months?). M (our boss) started a call and, in a burst of overconfidence, told us we WOULD reach a consensus before we ended the meeting. Not only did she overestimate her ability to find a correct answer, she naively assumed our very capable team was missing it through some lack of executive decisiveness, which she would provide. As M grew increasingly frustrated she shouted at multiple people on the call, and at the end she explained that it was HER call and we were not in charge. We all knew that before we started, of course, and none of us would’ve disagreed! But driving it home was a demoralizing punishment for failing to deliver on her doomed demand for a clean and clear solution. By that point, I don’t think M even remembered her (completely unnecessary!) promise from the beginning."
