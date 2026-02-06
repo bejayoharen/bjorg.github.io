@@ -10,7 +10,7 @@ header:
     teaser: "/assets/2026/promotion.jpg"
 ---
 
-I’ve heard from lawyers that in order to win over juries, it's best to first make an emotional appeal and then supply sufficient evidence to allow the jury to feel justified in their decision. This strategy works because people tend to make decisions based on emotions, not logic. They still need the logical evidence to justify their decisions to themselves and others, but that comes later. The same thing applies when you are looking to get promoted: first you need to win emotionally, and then supply the proof. In this case, the emotion you must win on is trust.
+I’ve heard from lawyers that in order to win over juries, it's best to first make an emotional appeal and then supply sufficient evidence to allow the jury to feel justified in their decision. This strategy works because people tend to make decisions based on emotions, not logic. They still need the logic, but logic is not how they make their decision -- it's how they justify the decision they've already made emotionally. The same thing applies when you are looking to get promoted: first you need to win emotionally, and then supply the proof. In this case, the emotion you must win on is trust.
 
 # Gaining trust
 
