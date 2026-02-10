@@ -10,7 +10,7 @@ header:
     teaser: "/assets/2026/promotion.jpg"
 ---
 
-I’ve heard from lawyers that juries tend to make their decisions based on emotion, and only use the evidence presented in the trial to justify those decisions. The same thing applies when you are looking to get promoted: first you need to win emotionally, and then supply the proof. In this case, the emotion you must win on is trust.
+I’ve heard from lawyers that juries decide based on their emotions and use the evidence only to rationalize the verdict. The same thing applies when you are looking to get promoted: first you need to win emotionally, and then supply the proof. In this case, the emotion you must win on is trust.
 
 # Winning trust
 
@@ -22,17 +22,11 @@ Winning trust[^who] might mean many different things: volunteering for bigger pr
          alt="Meme of Bill Murray in a tux with a drink in onw hand, pointing at the camera with the text TRUST ME.">
 </figure>
 
-For example, if you've quietly done great work but no one knows who you are and what you’ve accomplished, focusing on visibility is probably the right advice, and you probably need to face office politics to get your work seen. On the other hand, if people see your can do great work, but you’re perceived as getting in the way of other projects, you've got a different problem. No one will trust you with your own project if you are getting in the way of theirs, so staying in your lane (and out of office politics) might be better advice.
-
-Some people think gaining trust means convincing your boss that everything is going smoothly. Maybe in some dysfunctional orgs “don’t tell your boss about things going wrong” is good advice, but as a manager, I always want to hear about the problems my reports are having. Even more important, I want to know they are going to resolve it, so when explaining the problem, they should come prepared with a plan or at least be open to working out a solution with my help. Finding out about a problem later and having to mop it up myself, on the other hand, tells me I can't trust them with the next project, even if the problems were not their fault.
-
-I once worked at a company where the product team was responsible for planning. They would often present a mostly completed plan to engineering and ask for our feedback. What they really wanted, though, was not feedback, but rather for us to rubber stamp their plans. Knowing my team was going to be responsible for implementing much of these plans, I would often ask questions or raise objections. Because this slowed down the planning process, I got a reputation for not being a "team player”.
-
-The more they disliked hearing feedback, the more they tried to ram their plans past me, and the more I protested and brought up objections. Asking my boss to get the Product team to be more collaborative only made the problem worse -- they thought I wasn't being collaborative because I was slowing them down. In the end, the solution was to improve my relationship with the product team until they trusted me enough to collaborate on the plans. Volunteering to do gruntwork needed for planning, like making spreadsheets and so on, went a long way towards winning back their graces. The gruntwork also got me involved earlier when it was easier for them to incorporate my feedback, and restored their trust that I was trying to help see things through, rather than slow them down.
+For example, if you've quietly done great work but no one knows who you are and what you’ve accomplished, focusing on visibility is probably the right advice, and you probably need to face office politics to get your work seen. On the other hand, if people see you can do great work, but you’re perceived as getting in the way of other projects, you've got a different problem. No one will trust you with your own project if you are getting in the way of theirs, so staying in your lane (and out of office politics) might be better advice.
 
 # The promotion process
 
-Every company of more than a few employees has some sort of policy about promotions.[^smallco] The policy I see most often[^notevery] is some definition of responsibility at each level, and an expectation that the employee works at a level above their current level for some amount of time before being formally promoted. (See Figure 1). In this model, a promotion is seen as a recognition of work you are already doing.[^peter]
+Every company of more than a few employees has some sort of policy about promotions.[^smallco] The policy I see most often[^notevery] is some definition of responsibility at each level, and an expectation that the employee works at the next level for some amount of time before being formally promoted (See Figure 1). In this model, a promotion is seen as a recognition of work you are already doing.[^peter]
 
 This is simple enough in principle, but the definitions of each level are often fuzzy, and their exact meaning can be unclear to people who don't have experience with these kinds of documents. What constitutes a “large project” or “deep understanding” or what counts as a “cross-team” project is not always clear.[^competencymatrix]
 
