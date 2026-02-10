@@ -10,7 +10,7 @@ header:
     teaser: "/assets/2026/promotion.jpg"
 ---
 
-I’ve heard from lawyers that juries tend to make their decisions based on emotion, and use the evidence and logic only to justify their decisions. The same thing applies when you are looking to get promoted: first you need to win emotionally, and then supply the proof. In this case, the emotion you must win on is trust.
+I’ve heard from lawyers that juries tend to make their decisions based on emotion, and only use the evidence presented in the trial to justify those decisions. The same thing applies when you are looking to get promoted: first you need to win emotionally, and then supply the proof. In this case, the emotion you must win on is trust.
 
 # Winning trust
 
@@ -26,15 +26,15 @@ For example, if you've quietly done great work but no one knows who you are and 
 
 Some people think gaining trust means convincing your boss that everything is going smoothly. Maybe in some dysfunctional orgs “don’t tell your boss about things going wrong” is good advice, but as a manager, I always want to hear about the problems my reports are having. Even more important, I want to know they are going to resolve it, so when explaining the problem, they should come prepared with a plan or at least be open to working out a solution with my help. Finding out about a problem later and having to mop it up myself, on the other hand, tells me I can't trust them with the next project, even if the problems were not their fault.
 
-I once worked at a company where the product team was responsible for planning. They would often present a mostly completed plan to engineering and ask for our feedback. What they really wanted, though, was not feedback, but rather for us to rubber stamp their plans. Knowing my team was going to be responsible for implementing much of these plans, I would often ask questions or raise objections. Because this slowed down the product team, I got a reputation for not being a "team player”.
+I once worked at a company where the product team was responsible for planning. They would often present a mostly completed plan to engineering and ask for our feedback. What they really wanted, though, was not feedback, but rather for us to rubber stamp their plans. Knowing my team was going to be responsible for implementing much of these plans, I would often ask questions or raise objections. Because this slowed down the planning process, I got a reputation for not being a "team player”.
 
-The more they disliked hearing feedback, the more they tried to ram their plans past me, and the more I protested and brought up objections. Asking my boss to get the Product team to be more collaborative only made the problem worse -- they thought I wasn't being collaborative because I always objected to their plans. In the end, the solution was to improve my relationship with the product team until they trusted me enough to collaborate on the plans. Volunteering to do gruntwork needed for planning, like making spreadsheets and so on, went a long way towards winning back their graces. The gruntwork also got me involved earlier when it was easier for them to incorporate my feedback, and restored their trust that I was trying to help see things through, rather than stop them from planning.
+The more they disliked hearing feedback, the more they tried to ram their plans past me, and the more I protested and brought up objections. Asking my boss to get the Product team to be more collaborative only made the problem worse -- they thought I wasn't being collaborative because I was slowing them down. In the end, the solution was to improve my relationship with the product team until they trusted me enough to collaborate on the plans. Volunteering to do gruntwork needed for planning, like making spreadsheets and so on, went a long way towards winning back their graces. The gruntwork also got me involved earlier when it was easier for them to incorporate my feedback, and restored their trust that I was trying to help see things through, rather than slow them down.
 
 # The promotion process
 
 Every company of more than a few employees has some sort of policy about promotions.[^smallco] The policy I see most often[^notevery] is some definition of responsibility at each level, and an expectation that the employee works at a level above their current level for some amount of time before being formally promoted. (See Figure 1). In this model, a promotion is seen as a recognition of work you are already doing.[^peter]
 
-This is simple enough in principle, but the definitions of each level are often fuzzy, and their exact meaning can be unclear to people who don't have experience with these kinds of documents. What constitutes a “large project” or “deep understanding” or what counts as a “cross-team” project are not always clear.[^competencymatrix]
+This is simple enough in principle, but the definitions of each level are often fuzzy, and their exact meaning can be unclear to people who don't have experience with these kinds of documents. What constitutes a “large project” or “deep understanding” or what counts as a “cross-team” project is not always clear.[^competencymatrix]
 
 | Level | Expectation |
 | ----- | ----------- |
@@ -53,28 +53,9 @@ If you don’t get the promotion and the explanation doesn’t make sense to you
 
 Admittedly, sometimes it’s not that simple. Sometimes someone gets promoted because the CEO likes them. Sometimes there’s a gap and whoever’s closest to filling the gap gets promoted into it. In some orgs, people get promoted because they are popular, loyal or were early employees. Sometimes organizations think about likeability instead of trustworthiness.
 
-Promotions not based on trust often prove to be mistakes. I remember seeing someone get promoted because they had pleased the CEO right around the time an opening appeared. It took a while, but eventually the mistake was obvious to everyone when they got drunk while leading an important meeting with the company that had just acquired us.[^meeting]
+Promotions not based on trust often prove to be mistakes. I remember seeing someone get promoted because they had pleased the CEO right around the time an opening appeared. It took a while, but eventually the mistake was obvious to everyone when the promoted employee got drunk while leading an important meeting with the company that had just acquired us.[^meeting]
 
 Other complications happen when there’s simply no promotion available, or if a promotion is possible, but there isn’t the opportunity to prove yourself trustworthy on a bigger project. This sort of thing happens a lot, but is especially common in companies that aren't growing. If developing your career is non-negotiable and you are in this situation, it is a good time to consider moving on. However, it's often a good time to focus more on personal growth instead.
-
-# Personal growth
-
-Let’s say you want to get better at Python. If your goal is to be more satisfied in your work and enjoy the process of putting a new programming language to use, then getting better at Python might be a worthy thing to focus on. If the company needs more Python expertise or it helps you tackle bigger projects in some way, improving your Python skills may even help your career.
-
-<figure>
-    <img
-		 src="/assets/2026/trust-venn.svg"
-         alt="Fig 2. If you want personal growth and career growth, find the overlap between what you want and what the company needs.">
-    <figcaption>Fig 2. If you want personal growth and career growth, find the overlap between what you want and what the company needs.</figcaption>
-</figure>
-
-But what if your company doesn't even use Python, or doesn't need deep expertise? Should you bother with developing your Python skills? That depends on what makes you happier, but if pushing your career forward is an important goal to you, think about other projects. 
-
-There are things that you want to do to make yourself happy and grow as an individual, and there are things the company needs you to do. The sweet spot is where those overlap, so you can develop personally and professionally. However, overlap doesn’t always exist – sometimes what you want or the company needs is too narrow. The broader your personal development goals are and the more flexible you are about them, the more likely you are to find overlap.
-
-I've seen engineers convince themselves that something has outsized value to the company, when really it's just something they think is cool. If they don't understand what's happening, they can get stuck in a vicious cycle where they keep trying to prove themselves, but keep getting bad feedback until they burn out.
-
-Early in my own career, I had very narrow interests in scientific computing and [digital audio](http://localhost:4000/categories/#audio), so instead of getting a job at a company where I’d be asked to do things that had nothing to do with my interests, I worked as a contractor and only took on audio projects. As time went on, my interests grew much more flexible and my ambition increased, so I got a normal job and focused on the things that would get me promoted. Still, whenever I see an opportunity to do something that will satisfy something personal and professional, I go for it, and I've been known to make room for things that don't help my career at all -- it's always good to give your personal interests a little attention now and again.
 
 # Notes
 
