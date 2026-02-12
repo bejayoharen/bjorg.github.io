@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  ""I got blamed for something that wasn't my fault""
+title:  "I got blamed for something that wasn't my fault"
 date:   2026-02-02 01:01:00 -0400
 categories: management
 excerpt: How to not get blamed for something out of your control.

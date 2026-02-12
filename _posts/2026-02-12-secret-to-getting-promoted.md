@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The secret to getting promoted"
-date:   2026-02-02 01:01:00 -0400
+date:   2026-02-12 01:01:00 -0400
 categories: management
 excerpt: Focus on building trust if you want to advance your career.
 header:
@@ -51,15 +51,9 @@ If you don’t get the promotion and the explanation doesn’t make sense to you
 
 Admittedly, sometimes it’s not that simple. Sometimes someone gets promoted because the CEO likes them. Sometimes there’s a gap and whoever’s closest to filling the gap gets promoted into it. In some orgs, people get promoted because they are popular, loyal or were early employees. Sometimes organizations think about likeability instead of trustworthiness. In worst cases, people sometimes [fail up](https://www.bbc.com/worklife/article/20210226-failing-up-why-some-climb-the-ladder-despite-mediocrity).
 
-<<<<<<< HEAD
 This can be frustrating, but take heart that promotions not based on trust often prove to be mistakes. I remember seeing someone get promoted because they had pleased the CEO right around the time an opening appeared. Eventually the mistake became office gossip when the promoted employee got drunk. While leading a meeting. An important meeting. A meeting with the company that had just acquired us.[^meeting]
 
 Other complications happen when there’s simply no promotion available, or there are no opportunities to prove yourself trustworthy on something bigger or more impactful. This sort of thing happens a lot, and is especially common in companies that aren't growing. If developing your career is non-negotiable and you are in this situation, you could consider moving on. However, this can also be an opportunity to focus more on personal growth instead or to work on improving trust in other ways (eg doing gruntwork) that might lay the foundation for later.
-=======
-Promotions not based on trust often turn out to be mistakes. I remember someone promoted largely because they had pleased the CEO at the moment an opening appeared. In time, the mistake became office gossip: most memorably when the promoted employee got drunk while leading a meeting with the company that had just acquired us.[^meeting]
-
-Other complications happen when there’s simply no promotion available, or if a promotion is possible, but there aren't any opportunities to prove yourself worthy of more responsibility. This sort of thing happens, but is especially common in companies that aren't growing. If developing your career is non-negotiable and you are in a company without the opportunities you need, it is a good time to consider moving on. However, it's often a good time to focus more on personal growth instead.
->>>>>>> b073e4d7884992da04516cd0a85804aee3bfbd67
 
 # Notes
 
@@ -71,6 +65,6 @@ Other complications happen when there’s simply no promotion available, or if a
 
 [^peter]: This model can seem unfair or difficult to navigate if you don't know how to work within the org and get access to the the higher stakes projects. If your manager isn't looking out for you, it's even worse. However, the system does prevent people from [getting promoted into jobs beyond their abilities](https://en.wikipedia.org/wiki/Peter_principle).
 
-[^competencymatrix]: Complex "competency matrices" used at some big tech companies are designed to make this as precise as possible, but it's a double-edged sword. I appreciate attempts to make the process as standardized (and therefore fair) as possible, but the more complex and nuanced it gets the more people ignore the rules, which tends to make the process more biased and unfair, not less. It can also become a design-by-committee challenge as everyone contributing to the rules to add their own pet ways of judging people. One place I worked laid out exactly what percentage of time people should spend on "tactical" vs "strategic" work to qualify for a promotion. While I have the utmost respect for the importance of strategic thinking, measuring people by how much time they spend on strategic vs tactial work is preposterous. People should spend whatever time they need to create the most impactful outcomes. To make it worse, this was a company where few people had a good idea of what [strategy](/management/effective-strategy/) even is.
+[^competencymatrix]: Complex "competency matrices" used at some big tech companies are designed to make this as precise as possible, but it's a double-edged sword. I appreciate attempts to make the process as standardized (and therefore fair) as possible, but the more complex and nuanced it gets the more people ignore the rules, which tends to make the process more biased and unfair, not less. It can also become a design-by-committee challenge as everyone contributing to the rules adds their own pet ways of judging people. One place I worked laid out exactly what percentage of time people should spend on "tactical" vs "strategic" work to qualify for a promotion. While I have the utmost respect for the importance of strategic thinking, measuring people by how much _time_ they spend on strategic vs tactial work is preposterous (people should spend whatever time they need to create the most impactful outcomes. Sometimes that's strategic thinking, other times that's filling out spreadsheets). To make it worse, this was a company where few people had a good idea of what [strategy](/management/effective-strategy/) even is.
 
 [^meeting]: It was a morning meeting.
