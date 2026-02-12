@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "I got blamed for something that wasn't my fault"
+title:  ""I got blamed for something that wasn't my fault""
 date:   2026-02-02 01:01:00 -0400
 categories: management
 excerpt: How to not get blamed for something out of your control.
@@ -19,6 +19,3 @@ Many people complain about being punished at work for things that are out of the
 
 # The value of gruntwork
 
-I once worked at a company where the product team was responsible for planning. They would often present a mostly completed plan to engineering and ask for our feedback. What they really wanted, though, was not feedback, but rather for us to rubber stamp their plans. Knowing my team was going to be responsible for implementing much of these plans, I would often ask questions or raise objections. Because this slowed down the planning process, I got a reputation for not being a "team player”.
-
-The more they disliked hearing feedback, the more they tried to ram their plans past me, and the more I protested and brought up objections. In the end, the solution was to improve my relationship with the product team until they trusted me enough to collaborate on the plans. Volunteering to do gruntwork needed for planning, like making spreadsheets and so on, went a long way towards winning back their graces. The gruntwork also got me involved earlier when it was easier for them to incorporate my feedback, and restored their trust that I was trying to help see things through, rather than slow them down.
