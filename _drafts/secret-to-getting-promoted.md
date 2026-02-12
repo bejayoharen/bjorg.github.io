@@ -3,14 +3,14 @@ layout: single
 title:  "The secret to getting promoted"
 date:   2026-02-02 01:01:00 -0400
 categories: management
-excerpt: Focus on building trust if you want to advance your career
+excerpt: Focus on building trust if you want to advance your career.
 header:
     overlay_image: "/assets/2026/promotion-dark.jpg"
     og_image: "/assets/2026/promotion.jpg"
     teaser: "/assets/2026/promotion.jpg"
 ---
 
-I’ve heard from lawyers that juries decide based on their emotions and use the evidence only to rationalize the verdict. The same thing applies when you are looking to get promoted: first you need to win emotionally, and then supply the proof. In this case, the emotion you must win on is trust.
+I’ve heard from lawyers that juries decide cases based on their emotions and only use the evidence to rationalize their verdict. The same thing applies when you are looking to get promoted: first you need to win emotionally, and then supply the proof. In this case, the emotion you must win on is trust.
 
 # Winning trust
 
@@ -22,7 +22,7 @@ Winning trust[^who] might mean many different things: volunteering for bigger pr
          alt="Meme of Bill Murray in a tux with a drink in onw hand, pointing at the camera with the text TRUST ME.">
 </figure>
 
-For example, if you've quietly done great work but no one knows who you are and what you’ve accomplished, focusing on visibility is probably the right advice, and you probably need to face office politics to get your work seen. On the other hand, if people see you can do great work, but you’re perceived as getting in the way of other projects, you've got a different problem. No one will trust you with your own project if you are getting in the way of theirs, so staying in your lane (and out of office politics) might be better advice.
+For example, if you've quietly done great work but no one knows who you are and what you’ve accomplished, you might be great at your job but lack the trust of those who haven't seen you in action. In this case, focusing on visibility is probably the right advice, and you probably need to face office politics to get your work seen. On the other hand, if people see you can do great work, but you’re perceived as getting in the way of other projects, people will be suspicious instead of trusting. In this case, staying in your lane (and out of office politics) might be better advice.
 
 # The promotion process
 
@@ -47,9 +47,9 @@ If you don’t get the promotion and the explanation doesn’t make sense to you
 
 Admittedly, sometimes it’s not that simple. Sometimes someone gets promoted because the CEO likes them. Sometimes there’s a gap and whoever’s closest to filling the gap gets promoted into it. In some orgs, people get promoted because they are popular, loyal or were early employees. Sometimes organizations think about likeability instead of trustworthiness.
 
-Promotions not based on trust often prove to be mistakes. I remember seeing someone get promoted because they had pleased the CEO right around the time an opening appeared. It took a while, but eventually the mistake was obvious to everyone when the promoted employee got drunk while leading an important meeting with the company that had just acquired us.[^meeting]
+Promotions not based on trust often turn out to be mistakes. I remember someone promoted largely because they had pleased the CEO at the moment an opening appeared. In time, the mistake became office gossip: most memorably when the promoted employee got drunk while leading a meeting with the company that had just acquired us.[^meeting]
 
-Other complications happen when there’s simply no promotion available, or if a promotion is possible, but there isn’t the opportunity to prove yourself trustworthy on a bigger project. This sort of thing happens a lot, but is especially common in companies that aren't growing. If developing your career is non-negotiable and you are in this situation, it is a good time to consider moving on. However, it's often a good time to focus more on personal growth instead.
+Other complications happen when there’s simply no promotion available, or if a promotion is possible, but there aren't any opportunities to prove yourself worthy of more responsibility. This sort of thing happens, but is especially common in companies that aren't growing. If developing your career is non-negotiable and you are in a company without the opportunities you need, it is a good time to consider moving on. However, it's often a good time to focus more on personal growth instead.
 
 # Notes
 
