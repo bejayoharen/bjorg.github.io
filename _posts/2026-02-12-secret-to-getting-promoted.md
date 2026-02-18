@@ -53,13 +53,13 @@ Admittedly, sometimes it’s not that simple. Sometimes someone gets promoted be
 
 This can be frustrating, but take heart that promotions not based on trust often prove to be mistakes. I remember seeing someone get promoted because they had pleased the CEO right around the time an opening appeared. Eventually the mistake became office gossip when the promoted employee got drunk. While leading a meeting. An important meeting. A meeting with the company that had just acquired us.[^meeting]
 
-Other complications happen when there’s simply no promotion available, or there are no opportunities to prove yourself trustworthy on something bigger or more impactful. This sort of thing happens a lot, and is especially common in companies that aren't growing. If developing your career is non-negotiable and you are in this situation, you could consider moving on. However, this can also be an opportunity to focus more on personal growth instead or to work on improving trust in other ways (e.g., doing gruntwork) that might lay the foundation for later.
+Other complications happen when there’s simply no promotion available, or there are no opportunities to prove yourself trustworthy on something bigger or more impactful. This sort of thing happens a lot, and is especially common in companies that aren't growing. If developing your career is non-negotiable and you are in this situation, you could consider moving on. However, this can also be an opportunity to focus more on personal growth instead or to work on improving trust in other ways (e.g., doing gruntwork) which might lay fruitful foundations for later.
 
 # Notes
 
 [^who]: In this article, I don't say much about whose trust you need to win. That's because it depends a lot on the organization and your particular circumstances, but it usually means a few people, most importantly your boss. After that, it might include your head of department, CEO, or other people in power above you. It often also includes anyone whose feedback is solicited or listened to, which usually means people with soft power, who might be in other departments or might even be below you in the org chart.
 
-[^smallco]: Some small companies may not have a written policy, and there might be disagreement about what the right policy should be. In this case, do your best to figure out how things are going to work before going through steps to get promoted.
+[^smallco]: Some small companies may not have a written policy, and there might be disagreement about what the right policy should be. In this case, do your best to figure out how things are going to work before going through steps to get promoted.othe
 
 [^notevery]: My experience is mostly in tech startups. I'm sure other workplaces -- including universities, governments and other large organizations -- are different, putting more emphasis on credentials for example.
 
