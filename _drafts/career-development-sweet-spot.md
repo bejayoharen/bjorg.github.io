@@ -10,7 +10,7 @@ header:
     teaser: "/assets/2026/sweet-spot.jpg"
 ---
 
-In [my last blog post](/management/secret-to-getting-promoted/), I talked about how to get promoted by building trust. Building trust often happens by advancing company needs. Let's talk about balancing your desire for both personal and career growth.
+In [my last blog post](/management/secret-to-getting-promoted/), I talked about how to get promoted by building trust. Building trust often happens by advancing company needs. Let's talk about balancing your desire for both personal growth while advancing company needs.
 
 <figure>
     <img
@@ -27,7 +27,7 @@ But what if your company doesn't even use Python, or doesn't need deeper experti
 
 # Narrow interests
 
-Some engineers have very narrow interests, which don't overlap much with the company needs. That can be okay, too, as long as they are thoughtful about it, and recognize that they may not be able to kill two birds with one stone. I've seen engineers contentedly sacrifice high-paced career growth so they can kick around side projects.
+Some engineers have very narrow interests, which don't overlap much with the company needs. That can be okay, too, as long as they are thoughtful about it, and recognize that they may not be able to kill two birds with one stone. I've seen engineers contentedly sacrifice high-paced career growth so they can kick around fun side projects.
 
 I've seen other engineers, though, who convince themselves that some personal interest has outsized value to the company, when really it's just something _they_ think is cool. This leads to a manager who can't understand what the report has been wasting their time on, and the report can't understand why the manager doesn't appreciate the really cool thing they did.
 
