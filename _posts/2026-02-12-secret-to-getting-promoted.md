@@ -55,6 +55,8 @@ This can be frustrating, but take heart that promotions not based on trust often
 
 Other complications happen when there’s simply no promotion available, or there are no opportunities to prove yourself trustworthy on something bigger or more impactful. This sort of thing happens a lot, and is especially common in companies that aren't growing. If developing your career is non-negotiable and you are in this situation, you could consider moving on. However, this can also be an opportunity to focus more on personal growth instead or to work on improving trust in other ways (e.g., doing gruntwork) which might lay fruitful foundations for later.
 
+For more on balancing personal growth and company needs, see my [next post](/management/career-development-sweet-spot/).
+
 # Notes
 
 [^who]: In this article, I don't say much about whose trust you need to win. That's because it depends a lot on the organization and your particular circumstances, but it usually means a few people, most importantly your boss. After that, it might include your head of department, CEO, or other people in power above you. It often also includes anyone whose feedback is solicited or listened to, which usually means people with soft power, who might be in other departments or might even be below you in the org chart.
