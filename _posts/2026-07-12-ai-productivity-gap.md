@@ -50,11 +50,11 @@ Now let’s consider an otherwise similar junior developer:
 
 AI saves this junior developer 2 hours, making them about 25% more efficient. This is a bigger difference than for the senior developer because juniors spend more time coding, which is the part of the job AI boosts the most.
 
-Given the bigger boost AI gives to juniors, it’s ironic that I still hear leaders saying things like, “we only hire senior engineers because AI does the work of juniors now”. It’s juniors who stand to gain the most from AI -- especially if they are good at using AI as a learning tool, not just an overeager sidekick who’s willing to do the menial work.[^pipeline]
+Given the bigger boost AI gives to juniors, it’s ironic that I still hear leaders saying things like, “we only hire senior engineers because AI does the work of juniors now”. In reality, it’s juniors who stand to gain the most from AI -- especially if they are good at using AI as a learning tool, not just an overeager sidekick who’s willing to do the menial work.[^pipeline]
 
-If the above observations surprise you, or you think developers spend more time than this actually writing code, you probably don’t understand the true complexity of the job.[^doorman] Still not convinced? Imagine hiring someone who is a good coder, but has trouble reasoning about systems, has no patience for working through hard problems with others, and can't break down vague requirements into tangible action items. I wouldn’t hire this person because the skills they lack are the most important part of the job. Being a good coder is table stakes.
+If the above observations surprise you, or you think developers spend more than a few hours a day actually writing code, you probably don’t understand the true complexity of the job.[^doorman] Try thinking about it like this: imagine hiring someone who is a good coder, but has trouble reasoning about systems, has no patience for working through hard problems with others, and can't break down vague requirements into tangible action items. I wouldn’t hire this person because the skills they lack are the most important part of the job. Being a good coder is table stakes.
 
-AI is still evolving, of course, and as it gets better at more parts of developers' jobs it should continue to make them more and more productive. But, for now, don't expect overly dramatic increases in productivity -- especially in your senior staff.
+AI is still evolving, of course, and as it gets better at more parts of developers' jobs it should continue to make them more and more productive. But, for now, don't expect wildly dramatic increases in productivity -- especially in your senior staff.
 
 # Notes
 
