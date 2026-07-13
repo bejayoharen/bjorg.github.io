@@ -15,7 +15,7 @@ I wasn't sure if I had enough to say to write a blog, so I brainstormed some ide
 	* We need a new way to point stories.
 	* [How to estimate engineering projects](/management/how-to-estimate-engineering-projects/)
 	* [Improving product roadmapping](/management/improving-product-roadmapping/)
-	* A Roadmapping System that Works
+	* [A Roadmapping System that Works](/management/improving-product-roadmapping/)
 	* Keeping Remote Teams on track
 	* [Implementing organizational change part 1: culture and policies](/management/Implementing-organizational-change-part-1-culture-and-policies/)
 	* [Implementing organizational change part 2: getting buy-in](/management/Implementing-organizational-change-part-2-getting-buy-in/)
