@@ -20,6 +20,43 @@ search: false
   margin-right: auto;
 }
 
+/* thumbnail to the left of each entry in the article listing (list view) */
+.list__item .archive__item {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  background-color: #f8f8f8;
+  /* border: thin solid green; */
+  border-radius: .2em;
+  margin: .5em;
+  padding: .5em;
+}
+
+.list__item .archive__item-teaser {
+  flex: 0 0 auto;
+  width: 96px;
+
+  @include breakpoint($small) {
+    width: 150px;
+  }
+
+  img {
+    width: 100%;
+    aspect-ratio: 3 / 3;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.list__item .archive__item-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.list__item .archive__item-title {
+  margin-top: 0;
+}
+
 figure {
   float: right;
   border: 2px solid #666;
