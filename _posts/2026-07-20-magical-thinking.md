@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Avoid the trap of magical thinking"
-date:   2026-07-15 08:00:00 -0400
+date:   2026-07-20 20:00:00 -0400
 categories: management
 excerpt: Magical thinking is a crutch for leaders who don’t know how (or don't want) to do their jobs.
 header:
