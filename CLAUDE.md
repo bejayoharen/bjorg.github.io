@@ -14,3 +14,6 @@ For images associated with this blog, I depict myself and other leaders (CEOs, V
 * Titles and headings use normal sentence casing, not title case.
 * eg is lower case and without periods. Other acronyms are usually upper case with no periods.
 * punctuation appears outside of quotes. Like this: "this is a quote".
+
+# Ignore
+* Ignore formatting issues that will be fixed by Jekyll. For example, if I "quote something" and then 〝quote something else〞with different characters for the quotation marks, bring this to my attention only if it will render incorrectly.

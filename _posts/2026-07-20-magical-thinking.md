@@ -1,18 +1,18 @@
 ---
 layout: single
-title:  "How to get the most leverage out of your team without magical thinking"
-date:   2026-07-12 04:00:00 -0400
+title:  "Avoid the trap of magical thinking"
+date:   2026-07-15 08:00:00 -0400
 categories: management
-excerpt: Magical thinking is a crutch for leaders who don’t know how to do their jobs.
+excerpt: Magical thinking is a crutch for leaders who don’t know how (or don't want) to do their jobs.
 header:
     overlay_image: "/assets/2026/magic-dark.jpg"
     og_image: "/assets/2026/magic.jpg"
     teaser: "/assets/2026/magic.jpg"
 ---
 
-Many leaders firmly believe that they can squeeze radically more productivity out of their employees with “one weird trick” such as giving inspirational speeches, or pressing for “more urgency” (the one weird trick du jour is "[just use AI](/management/ai-productivity-gap/)"). Good leaders know that there's no magic trick for raising productivity. They know that their job as a leader is to make sure they correctly understand the business’ challenges and opportunities, and to ensure the entire team is focused on the outcomes that matter. But that’s a lot harder than thinking you can somehow “inspire more urgency”.
+Many leaders firmly believe that they can squeeze radically more productivity out of their employees with "[one weird trick](https://en.wikipedia.org/wiki/Chumbox)" such as giving inspirational speeches, pressing for “more hustle”, or "inspiring a growth mindset" (the one weird trick du jour is "[just use AI](/management/ai-productivity-gap/)"). Good leaders know that there's no magic trick for raising productivity. They know that their job as a leader is to make sure they correctly understand the business’ challenges and opportunities, and to ensure the entire team is focused on the outcomes that matter. But that’s a lot harder than thinking you can somehow "inspire a growth mindset".
 
-This isn’t to say an inspiring speech isn’t powerful, but the best speeches reinforce good leadership; they don’t replace it. If good leadership sounds like a lot of work, the good news is that, unlike inspiring speeches, you don’t have to do a perfect job to make a real, positive impact on the company’s bottom line.
+This isn’t to say an inspiring speech can't be powerful, but the best speeches reinforce good leadership; they don’t replace it. If good leadership sounds like more work than making inspiring speeches, you're right, but the good news is that you don’t have to do a perfect job to make a real, positive impact on the company’s bottom line.
 
 Let’s look at some examples of magical thinking and how to turn them into impactful change.
 
@@ -34,7 +34,7 @@ Try this:<br />
 
 You might think holding a team in high regard will make the team feel good. But if you state your faith in a way that sounds unbounded by real-world constraints, the team you are complimenting will see through you and know that you don’t really mean it. If you deliver your speech well and your team is naive, some of them might feel inspired. Others on the team, however, will hear your pronouncement and think, “okay, so no matter what I do it will be a disappointment". Still others will simply roll their eyes at the management-speak.
 
-It’s better to acknowledge problems and assure your team that you are there to help face them -- that you are doing more than telling them to work harder and harder. Remind them that you know what your job is (removing bottlenecks) and that you are committed to doing it, so they can do their best work.
+It’s better to acknowledge problems and assure your team that you are there to help face them -- that you are doing more than telling them to work harder. Remind them that you know what your job is (removing bottlenecks) and that you are committed to doing it, so they can do their best work.
 
 Instead of saying:<br />
  🪄 ❌  “All that matters is hiring the most productive people. We hire seniors and 10xers because they can get so much more done -- especially with AI.”
@@ -42,7 +42,7 @@ Instead of saying:<br />
 Try this:<br />
 🏗️ ✅  “Hiring productive people is important, but what really makes a company successful is how well we operate as a team.”
 
-No one doubts that hiring productive people matters. I also believe that “rockstars” and “10xers” do exist. But the best teams I’ve seen have been led by the most humble, not by a magical elite of super-human programmers. Teams that communicate and work through disagreements, solve problems, remember the bottom line, and get things done are the ones who bring the most value to the company, not the ones with the most productive individual contributors. Research backs this up: team-based measures like psychological safety trump individual productivity when it comes to predicting team success.[^ps]
+No one doubts that hiring productive people matters. But the best teams I’ve seen have been led by the most humble, not by a magical elite of super-human programmers. Teams that communicate and work through disagreements, solve problems, remember the bottom line, and get things done are the ones who bring the most value to the company, not the ones with the most productive individual contributors. Research backs this up: team-based measures like psychological safety trump individual productivity when it comes to predicting team success.[^ps]
 
 The best experiences I’ve had with people who might be called "10xers" have been when they are working alone, or with one other developer. Once the company starts having more developers who need to work together towards a common goal, it becomes more important to think about how the team operates together, rather than how much the developers produce individually.
 

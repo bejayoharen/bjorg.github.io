@@ -12,7 +12,7 @@ header:
 
 There’s no doubt that AI has already improved the productivity of engineering teams, and will only get better in the coming years. However, some leaders think fully-baked features should be banged out as fast as prototypes. Sadly, building production features still seems to take almost as long as it used to. Wasn't AI supposed to turn us all into hyper-productive 10xers?
 
-To understand this AI productivity gap, we need to acknowledge how developers actually break down their day. In reality, coding new features is not where most of their time goes. Senior engineers in particular spend a lot of time figuring out what code they need to write, and AI hasn’t yet made that part any easier.
+To understand this AI productivity gap, we need to acknowledge how developers actually break down their days. In reality, coding new features is not where most of their time goes. Senior engineers in particular spend a lot of time figuring out what code they need to write, and AI hasn’t yet made that part any easier.
 
 Sometimes I actually find AI makes non-coding work go slower. For example, whenever I have to read a product requirements document or even a Linear ticket that was written by AI, it takes longer than reviewing a human-written document. AI writing can be overly detailed, which can make distilling the key parts harder.
 
@@ -52,7 +52,7 @@ AI saves this junior developer 2 hours, making them about 25% more efficient. Th
 
 Given the bigger boost AI gives to juniors, it’s ironic that I still hear leaders saying things like, “we only hire senior engineers because AI does the work of juniors now”. In reality, it’s juniors who stand to gain the most from AI -- especially if they are good at using AI as a learning tool, not just an overeager sidekick who’s willing to do the menial work.[^pipeline]
 
-If the above observations surprise you, or you think developers spend more than a few hours a day actually writing code, you probably don’t understand the true complexity of the job.[^doorman] Try thinking about it like this: imagine hiring someone who is a good coder, but has trouble reasoning about systems, has no patience for working through hard problems with others, and can't break down vague requirements into tangible action items. I wouldn’t hire this person because the skills they lack are the most important part of the job. Being a good coder is table stakes.
+If the above observations surprise you, or you think developers spend more than a few hours a day actually writing code, you probably don’t understand the true complexity of the job.[^doorman] Try thinking about it like this: imagine hiring someone who is a good coder, but has trouble reasoning about systems, has no patience for working through hard problems with others, and can't break down vague requirements into tangible action items. I wouldn’t hire this person because the skills they lack are the most important parts of the job. Being a good coder is table stakes.
 
 AI is still evolving, of course, and as it gets better at more parts of developers' jobs it should continue to make them more and more productive. But, for now, don't expect wildly dramatic increases in productivity -- especially in your senior staff.
 
